@@ -1,2626 +1,2626 @@
-"Palabra Principal","Frase","Count"
-"años","los años","31729"
-"años","de los años","10600"
-"años","finales de los años","1460"
-"dos","los dos","103002"
-"dos","de los dos","3308"
-"ser","ser de","51893"
-"ser","puede ser de","413"
-"parte","parte de","60261"
-"parte","parte de la","19794"
-"parte","forma parte de la","2406"
-"ciudad","la ciudad","91747"
-"ciudad","la ciudad de","39165"
-"ciudad","de la ciudad de","14739"
-"ciudad","de la ciudad de méxico","1396"
-"año","el año","51215"
-"año","en el año","28440"
-"año","en el año de","1927"
-"gran","de gran","23429"
-"gran","de gran canaria","1011"
-"san","de san","88545"
-"san","de san juan","4609"
-"después","después de","52590"
-"después","después de la","12590"
-"nombre","el nombre","41586"
-"nombre","el nombre de","21954"
-"nombre","con el nombre de","5418"
-"puede","se puede","29098"
-"puede","que se puede","2175"
-"primera","la primera","47561"
-"primera","de la primera","8451"
-"primer","la primer","48613"
-"primer","en la primer","134"
-"así","así como","29135"
-"así","así como la","3181"
-"forma","forma de","39522"
-"forma","en forma de","6600"
-"siglo","del siglo","38720"
-"siglo","del siglo xx","7903"
-"mismo","el mismo","20949"
-"mismo","en el mismo","4983"
-"si","si de","314471"
-"si","como si de","128"
-"aunque","aunque no","5827"
-"aunque","aunque no se","828"
-"españa","de españa","20849"
-"españa","de españa en","3062"
-"nacional","nacional de","36448"
-"nacional","nacional de la","1787"
-"tres","de tres","9923"
-"tres","de tres años","745"
-"guerra","la guerra","36336"
-"guerra","de la guerra","10933"
-"guerra","de la guerra de","2297"
-"historia","la historia","32303"
-"historia","la historia de","11562"
-"historia","la historia de la","3896"
-"historia","en la historia de la","1222"
-"historia","en la historia de la música","97"
-"grupo","grupo de","24050"
-"grupo","un grupo de","8476"
-"grupo","de un grupo de","1060"
-"mayor","la mayor","35683"
-"mayor","la mayor parte","9014"
-"mayor","la mayor parte de","6911"
-"mayor","la mayor parte de los","1581"
-"vez","una vez","13768"
-"vez","una vez que","2310"
-"población","la población","23511"
-"población","de la población","10542"
-"población","de la población de","1140"
-"tras","tras que","22356"
-"tras","tras que el","12"
-"tiempo","el tiempo","11452"
-"tiempo","con el tiempo","2787"
-"general","general de","16348"
-"general","general de la","3440"
-"además","además de","21245"
-"además","además de la","2266"
-"bajo","bajo el","16340"
-"bajo","bajo el nombre","2893"
-"lugar","lugar de","15736"
-"lugar","en lugar de","4477"
-"lugar","en lugar de la","325"
-"cada","cada en","16377"
-"cada","fue cada en","43"
-"sido","ha sido","26689"
-"sido","que ha sido","2119"
-"vida","la vida","34624"
-"vida","de la vida","6716"
-"nueva","nueva york","14244"
-"nueva","de nueva york","5087"
-"nueva","ciudad de nueva york","1310"
-"nueva","la ciudad de nueva york","1237"
-"nueva","en la ciudad de nueva york","537"
-"nueva","en la ciudad de nueva york en","66"
-"familia","la familia","33122"
-"familia","de la familia","13435"
-"familia","de la familia de","3694"
-"familia","de la familia de los","1775"
-"familia","peces de la familia de los","817"
-"familia","de peces de la familia de los","817"
-"familia","especie de peces de la familia de los","722"
-"familia","una especie de peces de la familia de los","722"
-"familia","es una especie de peces de la familia de los","721"
-"familia","es una especie de peces de la familia de los aplocheílidos","212"
-"familia","es una especie de peces de la familia de los aplocheílidos en","212"
-"familia","es una especie de peces de la familia de los aplocheílidos en el","212"
-"familia","es una especie de peces de la familia de los aplocheílidos en el orden","212"
-"familia","es una especie de peces de la familia de los aplocheílidos en el orden de","212"
-"familia","es una especie de peces de la familia de los aplocheílidos en el orden de los","212"
-"familia","es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes","212"
-"familia","es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los","210"
-"familia","es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los machos","210"
-"familia","es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los machos pueden","210"
-"familia","es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los machos pueden alcanzar","210"
-"familia","es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los machos pueden alcanzar los","208"
-"junto","junto a","25853"
-"junto","junto a la","3668"
-"hacia","hacia el","17808"
-"hacia","hacia el sur","1894"
-"universidad","la universidad","39039"
-"universidad","la universidad de","22192"
-"universidad","de la universidad de","8742"
-"universidad","de la universidad de chile","666"
-"mundo","del mundo","21428"
-"mundo","del mundo de","2188"
-"sur","sur de","21406"
-"sur","al sur de","4163"
-"partido","el partido","13439"
-"partido","en el partido","3277"
-"norte","norte de","16069"
-"norte","al norte de","4296"
-"norte","al norte de la","1646"
-"norte","al norte de la ciudad","435"
-"norte","al norte de la ciudad de","245"
-"norte","km al norte de la ciudad de","74"
-"norte","km al norte de la ciudad de san","4"
-"región","la región","39995"
-"región","en la región","22392"
-"región","en la región de","17689"
-"región","francesa en la región de","6679"
-"región","comuna francesa en la región de","6674"
-"región","y comuna francesa en la región de","6669"
-"región","población y comuna francesa en la región de","6656"
-"región","una población y comuna francesa en la región de","6655"
-"región","es una población y comuna francesa en la región de","6648"
-"región","es una población y comuna francesa en la región de ródanoalpes","868"
-"provincia","provincia de","39522"
-"provincia","la provincia de","26017"
-"provincia","de la provincia de","11293"
-"provincia","de la provincia de buenos","993"
-"río","el río","22623"
-"río","en el río","2264"
-"nuevo","de nuevo","12651"
-"nuevo","de nuevo en","1537"
-"serie","la serie","24519"
-"serie","de la serie","11002"
-"serie","de la serie de","2073"
-"encuentra","se encuentra","64253"
-"encuentra","se encuentra en","13103"
-"gobierno","el gobierno","20256"
-"gobierno","el gobierno de","6601"
-"gobierno","el gobierno de la","953"
-"inglés","en inglés","33265"
-"inglés","en inglés el","1470"
-"juan","san juan","9194"
-"juan","de san juan","4609"
-"juan","de san juan de","1182"
-"juan","de san juan de la","238"
-"embargo","sin embargo","46890"
-"embargo","sin embargo el","4479"
-"oficial","oficial de","20881"
-"oficial","oficial de la","6011"
-"oficial","página oficial de la","1736"
-"oficial","página oficial de la nasa","338"
-"sólo","no sólo","5030"
-"sólo","no sólo en","458"
-"siendo","siendo el","5225"
-"siendo","siendo el primer","502"
-"mientras","mientras que","20839"
-"mientras","mientras que el","3727"
-"unidos","estados unidos","42771"
-"unidos","los estados unidos","17662"
-"unidos","de los estados unidos","9094"
-"unidos","de los estados unidos en","758"
-"luego","luego de","13784"
-"luego","luego de la","2321"
-"sistema","sistema de","20851"
-"sistema","un sistema de","4503"
-"día","día de","16100"
-"día","el día de","3105"
-"centro","centro de","20928"
-"centro","el centro de","7746"
-"centro","en el centro de","3825"
-"centro","en el centro de la","1840"
-"centro","en el centro de la ciudad","627"
-"centro","en el centro de la ciudad de","149"
-"país","del país","16243"
-"país","del país y","1462"
-"obra","obra de","18240"
-"obra","la obra de","4191"
-"según","según el","9175"
-"según","según el censo","1672"
-"segunda","la segunda","27688"
-"segunda","la segunda guerra","7752"
-"segunda","la segunda guerra mundial","6990"
-"segunda","durante la segunda guerra mundial","2407"
-"segunda","durante la segunda guerra mundial la","172"
-"josé","san josé","4241"
-"josé","de san josé","1718"
-"josé","de san josé de","331"
-"pueden","se pueden","9376"
-"pueden","que se pueden","1309"
-"entonces","desde entonces","5915"
-"entonces","y desde entonces","839"
-"equipo","el equipo","13135"
-"equipo","el equipo de","2703"
-"rey","el rey","14417"
-"rey","el rey de","1993"
-"debido","debido a","34420"
-"debido","debido a la","9589"
-"debido","debido a la falta","416"
-"iglesia","la iglesia","27218"
-"iglesia","de la iglesia","10350"
-"iglesia","de la iglesia de","2036"
-"varios","de varios","5636"
-"varios","después de varios","371"
-"español","en español","8771"
-"español","en español el","406"
-"zona","la zona","26317"
-"zona","en la zona","9658"
-"zona","en la zona de","1983"
-"número","número de","19395"
-"número","el número de","6313"
-"número","en el número de","386"
-"banda","la banda","27238"
-"banda","de la banda","12451"
-"banda","de la banda de","1803"
-"final","final de","25363"
-"final","final de la","6697"
-"final","al final de la","2407"
-"final","al final de la temporada","294"
-"santa","de santa","18226"
-"santa","de santa maría","3647"
-"casa","la casa","18103"
-"casa","la casa de","7154"
-"casa","de la casa de","2098"
-"casa","de la casa de la","266"
-"mejor","la mejor","6192"
-"mejor","a la mejor","2128"
-"mejor","a la mejor actriz","524"
-"julio","de julio","24959"
-"julio","de julio de","16424"
-"julio","de julio de ese","179"
-"departamento","departamento de","29618"
-"departamento","el departamento de","6717"
-"madrid","de madrid","12085"
-"madrid","comunidad de madrid","1372"
-"hace","se hace","7979"
-"hace","que se hace","883"
-"cuenta","cuenta con","19151"
-"cuenta","cuenta con una","3485"
-"cuatro","de cuatro","5293"
-"cuatro","de cuatro años","553"
-"dentro","dentro de","22808"
-"dentro","dentro de la","9001"
-"dentro","dentro de la familia","826"
-"principal","principal de","8542"
-"principal","principal de la","2047"
-"grandes","los grandes","4223"
-"grandes","de los grandes","1942"
-"grandes","uno de los grandes","685"
-"grandes","como uno de los grandes","93"
-"presidente","presidente de","14406"
-"presidente","presidente de la","7613"
-"presidente","presidente de la república","2103"
-"presidente","el presidente de la república","574"
-"presidente","por el presidente de la república","209"
-"presidente","designado por el presidente de la república","28"
-"méxico","de méxico","16154"
-"méxico","ciudad de méxico","4376"
-"méxico","la ciudad de méxico","3243"
-"méxico","de la ciudad de méxico","1396"
-"méxico","de la ciudad de méxico y","151"
-"real","se real","13925"
-"real","","0"
-"música","la música","13845"
-"música","de la música","5040"
-"música","de la música de","501"
-"bien","si bien","8491"
-"bien","si bien la","827"
-"poder","el poder","9530"
-"poder","el poder de","2068"
-"tipo","tipo de","28246"
-"tipo","este tipo de","5139"
-"obras","obras de","8797"
-"obras","las obras de","2873"
-"obras","de las obras de","787"
-"obras","una de las obras de","63"
-"película","la película","20117"
-"película","de la película","6014"
-"película","de la película de","553"
-"ii","siglo ii","20996"
-"ii","del siglo ii","401"
-"argentina","en argentina","3856"
-"argentina","en argentina y","398"
-"muerte","la muerte","18842"
-"muerte","la muerte de","10360"
-"muerte","de la muerte de","2734"
-"muerte","después de la muerte de","1221"
-"muerte","después de la muerte de su","282"
-"club","el club","9421"
-"club","en el club","1655"
-"mayo","mayo de","49081"
-"mayo","de mayo de","16357"
-"mayo","de mayo de ese","156"
-"álbum","el álbum","8558"
-"álbum","en el álbum","2205"
-"álbum","en el álbum de","412"
-"distrito","distrito de","24424"
-"distrito","el distrito de","18762"
-"distrito","en el distrito de","16213"
-"distrito","loira en el distrito de","736"
-"época","la época","16139"
-"época","de la época","7994"
-"época","de la época de","716"
-"municipio","municipio de","18238"
-"municipio","el municipio de","4855"
-"municipio","en el municipio de","1985"
-"municipio","situado en el municipio de","125"
-"medio","medio de","19396"
-"medio","por medio de","5303"
-"medio","por medio de la","1161"
-"pueblo","el pueblo","9696"
-"pueblo","el pueblo de","2734"
-"pueblo","en el pueblo de","743"
-"pueblo","nació en el pueblo de","60"
-"internacional","internacional de","11109"
-"internacional","aeropuerto internacional de","1669"
-"hijo","hijo de","15147"
-"hijo","el hijo de","1787"
-"trabajo","de trabajo","8048"
-"trabajo","de trabajo y","783"
-"segundo","el segundo","14648"
-"segundo","en el segundo","2773"
-"personas","las personas","6685"
-"personas","de las personas","1983"
-"personas","de las personas que","382"
-"conocido","conocido como","18286"
-"conocido","también conocido como","3249"
-"habitantes","los habitantes","4879"
-"habitantes","los habitantes de","2656"
-"habitantes","los habitantes de la","847"
-"habitantes","de los habitantes de la","232"
-"habitantes","de los habitantes de la ciudad","75"
-"habitantes","de los habitantes de la ciudad de","8"
-"francia","de francia","13257"
-"francia","de francia en","2486"
-"solo","un solo","4037"
-"solo","de un solo","866"
-"actualmente","actualmente se","3480"
-"actualmente","actualmente se encuentra","802"
-"mundial","guerra mundial","11813"
-"mundial","segunda guerra mundial","7331"
-"mundial","la segunda guerra mundial","6990"
-"mundial","durante la segunda guerra mundial","2407"
-"mundial","durante la segunda guerra mundial la","172"
-"maría","santa maría","5877"
-"maría","de santa maría","3647"
-"maría","de santa maría de","1267"
-"maría","de santa maría de la","313"
-"octubre","de octubre","22946"
-"octubre","de octubre de","16233"
-"octubre","de octubre de ese","168"
-"todas","todas las","20524"
-"todas","de todas las","3757"
-"padre","su padre","16300"
-"padre","de su padre","4842"
-"padre","muerte de su padre","852"
-"tierra","la tierra","15681"
-"tierra","de la tierra","6418"
-"tierra","de la tierra y","599"
-"agua","de agua","18996"
-"agua","de agua dulce","1133"
-"especies","especies de","8735"
-"especies","especies de as","3224"
-"especies","especies de as de","2512"
-"especies","especies de as de flores","2481"
-"especies","especies de as de flores perteneciente","2307"
-"especies","especies de as de flores perteneciente a","2304"
-"especies","especies de as de flores perteneciente a la","2304"
-"especies","especies de as de flores perteneciente a la familia","2304"
-"especies","una especies de as de flores perteneciente a la familia","431"
-"ejemplo","por ejemplo","20811"
-"ejemplo","como por ejemplo","3131"
-"largo","lo largo","16069"
-"largo","a lo largo","15895"
-"largo","a lo largo de","11764"
-"largo","a lo largo de la","3505"
-"largo","a lo largo de la historia","803"
-"importante","más importante","16499"
-"importante","más importante de","2213"
-"hizo","se hizo","7914"
-"hizo","que se hizo","848"
-"septiembre","de septiembre","22680"
-"septiembre","de septiembre de","15003"
-"septiembre","de septiembre de ese","178"
-"enero","enero de","22455"
-"enero","de enero de","16982"
-"enero","mes de enero de","84"
-"canción","la canción","17342"
-"canción","de la canción","5218"
-"canción","de la canción de","925"
-"junio","de junio","22448"
-"junio","de junio de","15729"
-"junio","de junio de ese","160"
-"hecho","hecho de","7284"
-"hecho","el hecho de","3961"
-"hecho","el hecho de que","2920"
-"hecho","por el hecho de que","483"
-"isla","la isla","23534"
-"isla","de la isla","7533"
-"isla","de la isla de","2168"
-"isla","de la isla de la","123"
-"carlos","de carlos","4023"
-"carlos","de carlos iii","533"
-"menos","al menos","6418"
-"menos","de al menos","603"
-"web","web oficial","9017"
-"web","web oficial de","3535"
-"web","web oficial de la","1023"
-"web","sitio web oficial de la","251"
-"través","a través","29344"
-"través","a través de","22915"
-"través","a través de la","5962"
-"través","a través de la cual","163"
-"misma","la misma","22242"
-"misma","de la misma","8144"
-"misma","de la misma manera","775"
-"agosto","de agosto","22749"
-"agosto","de agosto de","14714"
-"agosto","de agosto de ese","172"
-"diciembre","de diciembre","21862"
-"diciembre","de diciembre de","16098"
-"diciembre","de diciembre de ese","220"
-"ejército","del ejército","9527"
-"ejército","del ejército de","1568"
-"llamado","el llamado","2270"
-"llamado","en el llamado","376"
-"temporada","la temporada","13941"
-"temporada","en la temporada","4952"
-"temporada","en la temporada de","322"
-"varias","en varias","5222"
-"varias","en varias ocasiones","1293"
-"toda","toda las","20618"
-"toda","de toda las","10"
-"capital","la capital","15780"
-"capital","de la capital","5285"
-"capital","kilómetros de la capital","856"
-"momento","el momento","7687"
-"momento","en el momento","3154"
-"momento","en el momento de","1404"
-"momento","en el momento de la","507"
-"momento","en el momento de la muerte","38"
-"marzo","de marzo","21328"
-"marzo","de marzo de","15878"
-"marzo","de marzo de ese","111"
-"noviembre","de noviembre","21592"
-"noviembre","de noviembre de","15593"
-"noviembre","de noviembre de ese","192"
-"abril","de abril","21315"
-"abril","de abril de","15474"
-"abril","de abril de ese","122"
-"veces","a veces","9643"
-"veces","a veces se","1265"
-"caso","caso de","15325"
-"caso","el caso de","7079"
-"caso","en el caso de","4223"
-"caso","en el caso de la","656"
-"partir","a partir","27798"
-"partir","a partir de","21906"
-"partir","a partir de la","3670"
-"sitio","sitio web","8151"
-"sitio","sitio web oficial","2898"
-"sitio","sitio web oficial de","1009"
-"sitio","sitio web oficial de la","251"
-"carrera","su carrera","13204"
-"carrera","de su carrera","3116"
-"central","central de","6273"
-"central","central de la","1461"
-"tarde","más tarde","22738"
-"tarde","años más tarde","4013"
-"desarrollo","el desarrollo","10518"
-"desarrollo","el desarrollo de","5351"
-"desarrollo","el desarrollo de la","1768"
-"desarrollo","en el desarrollo de la","405"
-"orden","orden de","11644"
-"orden","la orden de","3749"
-"orden","de la orden de","1749"
-"orden","de la orden de santiago","296"
-"punto","punto de","16478"
-"punto","el punto de","4566"
-"punto","el punto de vista","2343"
-"punto","desde el punto de vista","1996"
-"punto","desde el punto de vista de","556"
-"punto","desde el punto de vista de la","232"
-"punto","desde el punto de vista de la teoría","7"
-"actual","la actual","18925"
-"actual","de la actual","1794"
-"escuela","la escuela","17184"
-"escuela","la escuela de","5554"
-"escuela","en la escuela de","1868"
-"escuela","en la escuela de artes","233"
-"premio","el premio","9086"
-"premio","el premio de","1001"
-"diferentes","en diferentes","3171"
-"diferentes","en diferentes lugares","135"
-"república","la república","19276"
-"república","de la república","12418"
-"república","de la república de","2201"
-"línea","la línea","14262"
-"línea","de la línea","4624"
-"línea","de la línea de","1373"
-"línea","debajo de la línea de","494"
-"línea","debajo de la línea de pobreza","459"
-"línea","debajo de la línea de pobreza del","313"
-"línea","debajo de la línea de pobreza del total","313"
-"línea","debajo de la línea de pobreza del total de","313"
-"línea","debajo de la línea de pobreza del total de gente","309"
-"línea","debajo de la línea de pobreza del total de gente en","309"
-"línea","debajo de la línea de pobreza del total de gente en esta","309"
-"línea","debajo de la línea de pobreza del total de gente en esta situación","308"
-"línea","estaban debajo de la línea de pobreza del total de gente en esta situación","245"
-"línea","población estaban debajo de la línea de pobreza del total de gente en esta situación","245"
-"línea","la población estaban debajo de la línea de pobreza del total de gente en esta situación","245"
-"línea","de la población estaban debajo de la línea de pobreza del total de gente en esta situación","245"
-"línea","","0"
-"primeros","los primeros","16842"
-"primeros","de los primeros","4338"
-"primeros","uno de los primeros","2275"
-"primeros","fue uno de los primeros","740"
-"primeros","fue uno de los primeros en","126"
-"mayoría","la mayoría","20555"
-"mayoría","la mayoría de","16857"
-"mayoría","la mayoría de los","7329"
-"mayoría","en la mayoría de los","1373"
-"hoy","hoy en","6762"
-"hoy","hoy en día","5554"
-"hoy","que hoy en día","529"
-"francesa","comuna francesa","15946"
-"francesa","y comuna francesa","14289"
-"francesa","población y comuna francesa","12391"
-"francesa","una población y comuna francesa","12381"
-"francesa","es una población y comuna francesa","12371"
-"francesa","es una población y comuna francesa en","6648"
-"francesa","es una población y comuna francesa en la","6648"
-"francesa","es una población y comuna francesa en la región","6648"
-"francesa","es una población y comuna francesa en la región de","6648"
-"francesa","es una población y comuna francesa en la región de ródanoalpes","868"
-"siempre","que siempre","1818"
-"siempre","que siempre se","200"
-"disco","disco de","6503"
-"disco","disco de oro","678"
-"hacer","para hacer","6446"
-"hacer","para hacer frente","393"
-"política","la política","6377"
-"política","de la política","1593"
-"estudios","estudios de","6000"
-"estudios","los estudios de","1413"
-"origen","de origen","11050"
-"origen","denominación de origen","821"
-"edad","la edad","38877"
-"edad","la edad de","5064"
-"programa","programa de","11740"
-"programa","un programa de","2029"
-"frente","frente a","11483"
-"frente","frente a la","2968"
-"frente","hacer frente a la","202"
-"febrero","de febrero","19725"
-"febrero","de febrero de","14500"
-"febrero","de febrero de ese","97"
-"nivel","nivel de","8813"
-"nivel","el nivel de","1654"
-"versión","la versión","11893"
-"versión","en la versión","2339"
-"batalla","la batalla","16254"
-"batalla","la batalla de","10046"
-"batalla","en la batalla de","4907"
-"batalla","participó en la batalla de","224"
-"último","el último","10164"
-"último","en el último","1929"
-"casi","en casi","5350"
-"casi","en casi todos","353"
-"siguiente","los siguiente","9024"
-"siguiente","en los siguiente","17"
-"juego","los juego","10024"
-"juego","los juego olímpicos","6"
-"luis","de luis","3031"
-"luis","de luis xiv","300"
-"uso","uso de","13901"
-"uso","el uso de","6582"
-"uso","el uso de la","1203"
-"da","la da","595459"
-"da","se la da","29"
-"libro","libro de","9660"
-"libro","el libro de","2343"
-"género","un género","9427"
-"género","es un género","8365"
-"género","es un género de","3954"
-"género","es un género de as","1614"
-"género","es un género de as de","1120"
-"género","es un género de as de flores","968"
-"género","es un género de as de flores perteneciente","735"
-"género","es un género de as de flores perteneciente a","734"
-"género","es un género de as de flores perteneciente a la","731"
-"género","es un género de as de flores perteneciente a la familia","729"
-"género","es un género de as de flores perteneciente a la familia acanthaceae","164"
-"total","total de","13185"
-"total","un total de","5222"
-"total","con un total de","940"
-"director","director de","9973"
-"director","director de la","2509"
-"director","director de la escuela","385"
-"países","los países","8185"
-"países","de los países","3068"
-"países","de los países bajos","1180"
-"países","de los países bajos en","140"
-"cerca","cerca de","27026"
-"cerca","cerca de la","4211"
-"manera","de manera","11345"
-"manera","de manera que","1874"
-"mar","mar de","67388"
-"mar","el mar de","890"
-"cuales","los cuales","15627"
-"cuales","de los cuales","7012"
-"cuales","habitantes de los cuales","774"
-"española","española de","4914"
-"española","española de la","648"
-"isbn","press isbn","950"
-"isbn","university press isbn","459"
-"isbn","columbia university press isbn","142"
-"isbn","york columbia university press isbn","138"
-"isbn","new york columbia university press isbn","84"
-"isbn","isshu new york columbia university press isbn","60"
-"isbn","hyakunin isshu new york columbia university press isbn","60"
-"isbn","ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","a translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","each a translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","poem each a translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","one hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","mcmillan one hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","peter mcmillan one hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn","60"
-"isbn","isshu peter mcmillan one hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn","22"
-"página","página oficial","8970"
-"página","página oficial de","4336"
-"página","página oficial de la","1736"
-"página","página oficial de la nasa","338"
-"francisco","san francisco","5708"
-"francisco","de san francisco","2601"
-"francisco","de san francisco de","533"
-"días","días de","3830"
-"días","los días de","650"
-"principales","los principales","6462"
-"principales","de los principales","2921"
-"principales","uno de los principales","2126"
-"principales","es uno de los principales","422"
-"chile","de chile","12584"
-"chile","santiago de chile","1917"
-"europa","de europa","9457"
-"europa","de europa y","1053"
-"base","base de","10143"
-"base","la base de","3788"
-"base","la base de la","1052"
-"base","en la base de la","229"
-"km","km de","9443"
-"km","km de la","2220"
-"título","el título","13819"
-"título","el título de","7299"
-"título","con el título de","1093"
-"construcción","la construcción","15245"
-"construcción","la construcción de","7665"
-"construcción","la construcción de la","2002"
-"construcción","de la construcción de la","227"
-"francés","en francés","8516"
-"francés","national en francés","590"
-"debe","se debe","7809"
-"debe","se debe a","2253"
-"debe","se debe a que","881"
-"debe","esto se debe a que","359"
-"debe","esto se debe a que la","65"
-"reino","reino unido","9721"
-"reino","el reino unido","4184"
-"reino","en el reino unido","2715"
-"reino","en el reino unido y","422"
-"división","división de","5860"
-"división","primera división de","1496"
-"división","la primera división de","1219"
-"división","de la primera división de","795"
-"división","de la primera división de chile","165"
-"posteriormente","y posteriormente","5049"
-"posteriormente","y posteriormente en","692"
-"antonio","san antonio","3512"
-"antonio","de san antonio","1293"
-"antonio","de san antonio de","332"
-"antonio","de san antonio de padua","160"
-"antonio","iglesia de san antonio de padua","26"
-"militar","militar de","4618"
-"militar","militar de la","662"
-"comuna","comuna francesa","15948"
-"comuna","y comuna francesa","14289"
-"comuna","población y comuna francesa","12391"
-"comuna","una población y comuna francesa","12381"
-"comuna","es una población y comuna francesa","12371"
-"comuna","es una población y comuna francesa en","6648"
-"comuna","es una población y comuna francesa en la","6648"
-"comuna","es una población y comuna francesa en la región","6648"
-"comuna","es una población y comuna francesa en la región de","6648"
-"comuna","es una población y comuna francesa en la región de ródanoalpes","868"
-"estilo","estilo de","5074"
-"estilo","el estilo de","1403"
-"estilo","el estilo de la","183"
-"buenos","buenos aires","20024"
-"buenos","de buenos aires","9432"
-"buenos","provincia de buenos aires","2798"
-"buenos","la provincia de buenos aires","1551"
-"buenos","de la provincia de buenos aires","990"
-"buenos","de la provincia de buenos aires argentina","148"
-"canciones","de canciones","5655"
-"canciones","lista de canciones","3723"
-"canciones","lista de canciones todas","322"
-"campo","campo de","11613"
-"campo","el campo de","3623"
-"campo","en el campo de","2512"
-"campo","en el campo de la","1022"
-"campo","en el campo de la música","32"
-"miembros","miembros de","8639"
-"miembros","miembros de la","4950"
-"miembros","los miembros de la","2080"
-"miembros","de los miembros de la","499"
-"tener","de tener","7977"
-"tener","de tener un","420"
-"fútbol","de fútbol","15121"
-"fútbol","de fútbol de","4989"
-"fútbol","selección de fútbol de","1890"
-"fútbol","la selección de fútbol de","1741"
-"fútbol","con la selección de fútbol de","1019"
-"fútbol","internacional con la selección de fútbol de","804"
-"fútbol","sido internacional con la selección de fútbol de","726"
-"fútbol","ha sido internacional con la selección de fútbol de","726"
-"fútbol","nacional ha sido internacional con la selección de fútbol de","694"
-"fútbol","selección nacional ha sido internacional con la selección de fútbol de","694"
-"fútbol","francia selección nacional ha sido internacional con la selección de fútbol de","54"
-"muchas","muchas de","3705"
-"muchas","muchas de las","1938"
-"muchas","muchas de las cuales","182"
-"york","nueva york","14298"
-"york","de nueva york","5087"
-"york","ciudad de nueva york","1310"
-"york","la ciudad de nueva york","1237"
-"york","en la ciudad de nueva york","537"
-"york","en la ciudad de nueva york en","66"
-"información","la información","5241"
-"información","de la información","1758"
-"información","de la información y","242"
-"pedro","san pedro","5508"
-"pedro","de san pedro","3016"
-"pedro","de san pedro de","504"
-"producción","la producción","11213"
-"producción","la producción de","4602"
-"producción","en la producción de","729"
-"barcelona","de barcelona","7162"
-"barcelona","de barcelona y","767"
-"lado","lado de","15197"
-"lado","al lado de","2372"
-"cuerpo","el cuerpo","6277"
-"cuerpo","el cuerpo de","1868"
-"cuerpo","en el cuerpo de","362"
-"importantes","más importantes","9325"
-"importantes","más importantes de","2578"
-"importantes","más importantes de la","1115"
-"importantes","más importantes de la ciudad","118"
-"comenzó","comenzó a","10992"
-"comenzó","y comenzó a","917"
-"metros","metros de","12985"
-"metros","metros de altura","2304"
-"arte","arte de","70133"
-"arte","el arte de","1104"
-"tal","tal de","75572"
-"tal","con tal de","227"
-"servicio","servicio de","9589"
-"servicio","el servicio de","1502"
-"john","de john","2879"
-"john","de john lennon","122"
-"hombre","los hombre","6384"
-"hombre","de los hombre","11"
-"televisión","de televisión","10739"
-"televisión","serie de televisión","2518"
-"alto","de alto","7518"
-"alto","departamento de alto","1287"
-"mediante","mediante la","4415"
-"mediante","mediante la cual","206"
-"haber","de haber","6626"
-"haber","después de haber","1983"
-"haber","después de haber sido","426"
-"tan","tan de","48549"
-"tan","tan de moda","16"
-"incluso","e incluso","6308"
-"incluso","e incluso en","398"
-"popular","popular en","4051"
-"popular","muy popular en","567"
-"proyecto","el proyecto","7690"
-"proyecto","el proyecto de","1662"
-"derecho","derecho de","6804"
-"derecho","el derecho de","1420"
-"cinco","de cinco","3878"
-"cinco","de cinco años","557"
-"elecciones","las elecciones","10695"
-"elecciones","en las elecciones","4639"
-"elecciones","en las elecciones de","1407"
-"elecciones","en las elecciones de febrero","32"
-"pesar","a pesar","20905"
-"pesar","a pesar de","18966"
-"pesar","a pesar de que","4679"
-"museo","el museo","8334"
-"museo","en el museo","3282"
-"museo","en el museo de","1037"
-"museo","en el museo de arte","202"
-"finalmente","y finalmente","3386"
-"finalmente","y finalmente en","333"
-"éxito","éxito de","4176"
-"éxito","el éxito de","1397"
-"éxito","el éxito de la","421"
-"éxito","el éxito de la película","36"
-"movimiento","el movimiento","6367"
-"movimiento","el movimiento de","1433"
-"unión","la unión","16059"
-"unión","de la unión","6539"
-"unión","de la unión soviética","1410"
-"hombres","los hombres","6336"
-"hombres","de los hombres","1511"
-"situada","situada en","16975"
-"situada","situada en la","9022"
-"situada","francesa situada en la","5873"
-"situada","comuna francesa situada en la","5871"
-"situada","y comuna francesa situada en la","5858"
-"situada","y comuna francesa situada en la región","5676"
-"situada","y comuna francesa situada en la región de","5532"
-"situada","población y comuna francesa situada en la región de","4993"
-"situada","una población y comuna francesa situada en la región de","4992"
-"situada","es una población y comuna francesa situada en la región de","4990"
-"situada","es una población y comuna francesa situada en la región de baja","807"
-"social","social y","5783"
-"social","social y cultural","230"
-"sino","sino que","7004"
-"sino","sino que se","847"
-"puesto","puesto de","7372"
-"puesto","el puesto de","1366"
-"especie","especie de","18636"
-"especie","una especie de","8104"
-"especie","es una especie de","4738"
-"especie","es una especie de a","1093"
-"fin","fin de","48976"
-"fin","el fin de","7006"
-"ambos","de ambos","2725"
-"ambos","de ambos países","167"
-"localidad","la localidad","10217"
-"localidad","la localidad de","4282"
-"localidad","en la localidad de","2010"
-"localidad","católica en la localidad de","179"
-"estudio","estudio de","12836"
-"estudio","el estudio de","2669"
-"comunidad","la comunidad","14127"
-"comunidad","de la comunidad","5836"
-"comunidad","de la comunidad de","1359"
-"color","de color","11783"
-"color","de color verde","1332"
-"edición","la edición","8366"
-"edición","la edición de","1662"
-"sociedad","la sociedad","13243"
-"sociedad","de la sociedad","5977"
-"sociedad","de la sociedad de","918"
-"aires","buenos aires","20066"
-"aires","de buenos aires","9432"
-"aires","provincia de buenos aires","2798"
-"aires","la provincia de buenos aires","1551"
-"aires","de la provincia de buenos aires","990"
-"aires","de la provincia de buenos aires argentina","148"
-"finales","a finales","12008"
-"finales","a finales de","7255"
-"finales","a finales de los","1785"
-"puerto","puerto de","9420"
-"puerto","el puerto de","2777"
-"puerto","en el puerto de","825"
-"puerto","en el puerto de la","85"
-"oeste","al oeste","11958"
-"oeste","al oeste con","2400"
-"llamada","la llamada","3748"
-"llamada","de la llamada","840"
-"territorio","el territorio","7023"
-"territorio","el territorio de","2014"
-"territorio","el territorio de la","595"
-"territorio","en el territorio de la","231"
-"territorio","en el territorio de la campiña","46"
-"costa","la costa","11303"
-"costa","de la costa","4083"
-"costa","de la costa de","537"
-"encuentran","se encuentran","19191"
-"encuentran","se encuentran en","5472"
-"encuentran","geográfica se encuentran en","1087"
-"área","área de","10197"
-"área","un área de","2764"
-"área","tiene un área de","1047"
-"área","condado tiene un área de","243"
-"aún","que aún","2574"
-"aún","que aún no","500"
-"cultura","la cultura","17140"
-"cultura","de la cultura","4282"
-"éste","de éste","3701"
-"éste","de éste en","326"
-"datos","de datos","6817"
-"datos","base de datos","1855"
-"datos","la base de datos","718"
-"datos","en la base de datos","276"
-"datos","en la base de datos de","59"
-"cargo","cargo de","10589"
-"cargo","a cargo de","3259"
-"cargo","a cargo de la","876"
-"cargo","está a cargo de la","108"
-"grupos","grupos de","5361"
-"grupos","los grupos de","919"
-"ello","de ello","19151"
-"ello","pesar de ello","933"
-"ley","la ley","15568"
-"ley","la ley de","3275"
-"original","original de","4765"
-"original","original de la","830"
-"etc","etc en","1648"
-"etc","etc en el","219"
-"cualquier","en cualquier","3959"
-"cualquier","en cualquier caso","888"
-"radio","de radio","6499"
-"radio","de radio y","690"
-"miembro","miembro de","17790"
-"miembro","miembro de la","6149"
-"miembro","es miembro de la","732"
-"millones","millones de","15848"
-"millones","millones de años","3215"
-"término","el término","10713"
-"término","el término municipal","1460"
-"ver","la ver","67215"
-"ver","la ver foros","1"
-"dirección","la dirección","8730"
-"dirección","la dirección de","3736"
-"dirección","bajo la dirección de","1517"
-"dirección","bajo la dirección de su","50"
-"interior","el interior","6167"
-"interior","en el interior","3667"
-"interior","en el interior de","1554"
-"interior","en el interior de la","748"
-"interior","en el interior de la iglesia","73"
-"oro","de oro","23764"
-"oro","medalla de oro","3013"
-"nació","la nació","22072"
-"nació","la nació catalanes","3"
-"proceso","proceso de","10435"
-"proceso","el proceso de","4183"
-"proceso","en el proceso de","909"
-"grande","más grande","10743"
-"grande","más grande de","2066"
-"superior","superior de","5094"
-"superior","superior de la","916"
-"lista","lista de","22745"
-"lista","lista de canciones","3723"
-"siguientes","los siguientes","8929"
-"siguientes","en los siguientes","1253"
-"llegó","llegó a","12705"
-"llegó","llegó a ser","2430"
-"antiguo","el antiguo","3623"
-"antiguo","en el antiguo","972"
-"antiguo","en el antiguo egipto","204"
-"allí","allí se","2166"
-"allí","que allí se","299"
-"político","político y","3578"
-"político","un político y","458"
-"relación","relación con","5395"
-"relación","en relación con","1359"
-"relación","en relación con el","356"
-"relación","en relación con el resto","9"
-"conocida","conocida como","10886"
-"conocida","también conocida como","2002"
-"propio","su propio","5824"
-"propio","de su propio","773"
-"alta","de alta","10347"
-"alta","región de alta","902"
-"manuel","de manuel","1871"
-"manuel","de manuel de","130"
-"pues","pues por","12845"
-"pues","pues por el","10"
-"natural","natural de","6460"
-"natural","natural de la","782"
-"media","media de","11094"
-"media","una media de","415"
-"teatro","el teatro","6379"
-"teatro","en el teatro","3424"
-"teatro","en el teatro de","420"
-"madre","su madre","8408"
-"madre","de su madre","1879"
-"voz","la voz","4649"
-"voz","la voz de","1982"
-"voz","la voz de la","203"
-"modo","modo de","5526"
-"modo","a modo de","1840"
-"modo","a modo de ejemplo","90"
-"juegos","los juegos","10004"
-"juegos","los juegos olímpicos","4830"
-"juegos","los juegos olímpicos de","3486"
-"juegos","en los juegos olímpicos de","2395"
-"juegos","en los juegos olímpicos de pekín","381"
-"primero","los primero","16896"
-"primero","de los primero","12"
-"público","al público","2892"
-"público","al público en","495"
-"decir","es decir","11587"
-"decir","es decir que","1077"
-"conjunto","conjunto de","9310"
-"conjunto","un conjunto de","3094"
-"conjunto","es un conjunto de","518"
-"puntos","puntos de","3918"
-"puntos","los puntos de","734"
-"rock","de rock","5657"
-"rock","banda de rock","1181"
-"new","new york","7568"
-"new","new york times","866"
-"fuerzas","las fuerzas","12251"
-"fuerzas","de las fuerzas","3587"
-"fuerzas","de las fuerzas armadas","940"
-"fuerzas","de las fuerzas armadas de","171"
-"papel","el papel","6127"
-"papel","el papel de","3578"
-"papel","en el papel de","724"
-"santiago","de santiago","7630"
-"santiago","de santiago de","1706"
-"paso","el paso","5777"
-"paso","el paso de","2091"
-"paso","el paso de los","720"
-"paso","con el paso de los","496"
-"paso","con el paso de los años","373"
-"paso","con el paso de los años se","50"
-"musical","musical de","3854"
-"musical","musical de la","533"
-"fuerza","las fuerza","12298"
-"fuerza","de las fuerza","13"
-"dice","dice que","11062"
-"dice","se dice que","3438"
-"dice","se dice que el","368"
-"organización","la organización","8764"
-"organización","de la organización","2763"
-"organización","de la organización de","534"
-"alrededor","alrededor de","12643"
-"alrededor","alrededor de la","1731"
-"alemania","de alemania","4001"
-"alemania","de alemania y","403"
-"acuerdo","de acuerdo","10976"
-"acuerdo","de acuerdo con","5249"
-"acuerdo","de acuerdo con la","1185"
-"aparece","aparece en","10125"
-"aparece","aparece en el","1624"
-"edificio","el edificio","6507"
-"edificio","el edificio de","883"
-"américa","de américa","10840"
-"américa","unidos de américa","1145"
-"igual","igual que","11322"
-"igual","al igual que","9677"
-"igual","al igual que el","1363"
-"cambio","cambio de","8936"
-"cambio","a cambio de","2242"
-"cambio","a cambio de la","273"
-"compañía","la compañía","10971"
-"compañía","de la compañía","3790"
-"compañía","de la compañía de","873"
-"mujer","las mujer","5808"
-"mujer","las mujer cómo","1"
-"estación","la estación","11218"
-"estación","la estación de","2993"
-"estación","de la estación de","633"
-"cabo","a cabo","12152"
-"cabo","llevó a cabo","2586"
-"cantón","cantón de","15723"
-"cantón","y cantón de","13616"
-"cantón","y cantón de la","357"
-"castillo","castillo de","7060"
-"castillo","el castillo de","2750"
-"castillo","en el castillo de","797"
-"castillo","en el castillo de la","50"
-"dio","dio de","47917"
-"dio","se dio de","43"
-"parque","el parque","6514"
-"parque","en el parque","1866"
-"parque","en el parque nacional","337"
-"liga","la liga","13738"
-"liga","de la liga","5378"
-"liga","de la liga de","911"
-"control","control de","7092"
-"control","el control de","3213"
-"control","el control de la","1050"
-"control","el control de la ciudad","90"
-"miguel","san miguel","3659"
-"miguel","de san miguel","1765"
-"miguel","de san miguel de","408"
-"referencias","y referencias","1595"
-"referencias","notas y referencias","1127"
-"referencias","notas y referencias el","87"
-"copa","la copa","11964"
-"copa","de la copa","3669"
-"copa","de la copa de","928"
-"copa","de la copa de la","269"
-"copa","de la copa de la uefa","164"
-"copa","final de la copa de la uefa","47"
-"copa","la final de la copa de la uefa","27"
-"copa","a la final de la copa de la uefa","10"
-"copa","llega a la final de la copa de la uefa","4"
-"copa","llega a la final de la copa de la uefa en","2"
-"copa","llega a la final de la copa de la uefa en el","1"
-"plaza","la plaza","9838"
-"plaza","la plaza de","3686"
-"plaza","en la plaza de","1332"
-"plaza","en la plaza de la","336"
-"plaza","en la plaza de la constitución","47"
-"última","la última","8678"
-"última","en la última","1497"
-"personajes","los personajes","4905"
-"personajes","de los personajes","2123"
-"personajes","uno de los personajes","716"
-"personajes","es uno de los personajes","214"
-"personajes","es uno de los personajes principales","69"
-"personajes","es uno de los personajes principales de","46"
-"personajes","es uno de los personajes principales de la","42"
-"personajes","es uno de los personajes principales de la serie","19"
-"personajes","es uno de los personajes principales de la serie de","10"
-"personajes","es uno de los personajes principales de la serie de ciencia","4"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción","4"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes","3"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes creada","3"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes creada por","3"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim","3"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring","3"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas","3"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas principales","3"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas principales características","3"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas principales características son","3"
-"personajes","es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas principales características son la","3"
-"principalmente","principalmente en","4075"
-"principalmente","principalmente en la","836"
-"convirtió","se convirtió","15709"
-"convirtió","se convirtió en","14326"
-"convirtió","se convirtió en el","3456"
-"iii","siglo iii","11514"
-"iii","del siglo iii","434"
-"instituto","el instituto","6149"
-"instituto","en el instituto","2376"
-"instituto","en el instituto de","724"
-"instituto","en el instituto de estudios","64"
-"ciudades","las ciudades","6416"
-"ciudades","las ciudades de","2169"
-"ciudades","en las ciudades de","404"
-"unas","unas de","8122"
-"unas","unas de las","202"
-"especialmente","especialmente en","4005"
-"especialmente","especialmente en el","792"
-"existen","la existen","7056"
-"existen","la existen otros","1"
-"revista","la revista","11098"
-"revista","de la revista","3394"
-"revista","de la revista de","220"
-"común","nombre común","2921"
-"común","el nombre común","1270"
-"común","el nombre común de","1136"
-"común","el nombre común de la","1045"
-"común","el nombre común de la a","1036"
-"común","a el nombre común de la a","381"
-"común","referirse a el nombre común de la a","363"
-"común","puede referirse a el nombre común de la a","354"
-"común","puede referirse a el nombre común de la a cistus","27"
-"villa","de villa","12447"
-"villa","de villa y","289"
-"mujeres","las mujeres","5803"
-"mujeres","de las mujeres","1718"
-"mujeres","de las mujeres el","470"
-"mujeres","de las mujeres el ingreso","433"
-"mujeres","de las mujeres el ingreso per","431"
-"mujeres","de las mujeres el ingreso per cápita","408"
-"mujeres","de las mujeres el ingreso per cápita del","309"
-"mujeres","de las mujeres el ingreso per cápita del condado","309"
-"mujeres","de las mujeres el ingreso per cápita del condado era","240"
-"mujeres","de las mujeres el ingreso per cápita del condado era de","240"
-"mujeres","de las mujeres el ingreso per cápita del condado era de us","1"
-"flores","de flores","7215"
-"flores","de flores perteneciente","4356"
-"flores","de flores perteneciente a","4345"
-"flores","de flores perteneciente a la","4340"
-"flores","de flores perteneciente a la familia","4225"
-"flores","as de flores perteneciente a la familia","3325"
-"flores","de as de flores perteneciente a la familia","3324"
-"flores","especies de as de flores perteneciente a la familia","2304"
-"flores","una especies de as de flores perteneciente a la familia","431"
-"ahora","que ahora","1667"
-"ahora","que ahora se","290"
-"personaje","personaje de","6226"
-"personaje","el personaje de","1379"
-"resto","resto de","15217"
-"resto","el resto de","7577"
-"resto","el resto de la","1944"
-"resto","con el resto de la","278"
-"valle","valle de","7136"
-"valle","el valle de","2425"
-"valle","en el valle de","1135"
-"valle","en el valle de los","74"
-"servicios","los servicios","4475"
-"servicios","los servicios de","1393"
-"servicios","de los servicios de","362"
-"servicios","de los servicios de inteligencia","35"
-"tema","tema de","26792"
-"tema","el tema de","1489"
-"nunca","que nunca","2909"
-"nunca","que nunca se","422"
-"cine","de cine","6953"
-"cine","de cine de","1492"
-"perteneciente","perteneciente a","16021"
-"perteneciente","perteneciente a la","12119"
-"perteneciente","perteneciente a la familia","7167"
-"perteneciente","flores perteneciente a la familia","4249"
-"perteneciente","de flores perteneciente a la familia","4225"
-"perteneciente","as de flores perteneciente a la familia","3325"
-"perteneciente","de as de flores perteneciente a la familia","3324"
-"perteneciente","especies de as de flores perteneciente a la familia","2304"
-"perteneciente","una especies de as de flores perteneciente a la familia","431"
-"red","red de","27384"
-"red","la red de","1762"
-"imperio","del imperio","6679"
-"imperio","del imperio romano","961"
-"italia","en italia","5449"
-"italia","en italia y","376"
-"civil","guerra civil","7826"
-"civil","la guerra civil","6364"
-"civil","la guerra civil española","1755"
-"civil","durante la guerra civil española","499"
-"civil","durante la guerra civil española el","47"
-"estadounidense","estadounidense de","2353"
-"estadounidense","banda estadounidense de","195"
-"trata","trata de","29622"
-"trata","se trata de","9471"
-"trata","se trata de un","3425"
-"trata","que se trata de un","312"
-"especial","especial en","11816"
-"especial","en especial en","473"
-"luz","la luz","7551"
-"luz","de la luz","2101"
-"luz","velocidad de la luz","321"
-"dios","los dios","17680"
-"dios","de los dios","2"
-"cruz","la cruz","6063"
-"cruz","de la cruz","2645"
-"cruz","de la cruz roja","361"
-"menor","menor de","4261"
-"menor","hermano menor de","327"
-"partidos","los partidos","3627"
-"partidos","de los partidos","1014"
-"partidos","de los partidos políticos","212"
-"único","el único","7834"
-"único","es el único","2252"
-"único","es el único que","241"
-"principios","a principios","8014"
-"principios","a principios de","4760"
-"principios","a principios de los","1278"
-"principios","a principios de los años","763"
-"principios","a principios de los años setenta","30"
-"anterior","anterior a","2442"
-"anterior","anterior a la","633"
-"anterior","anterior a la guerra","52"
-"empresa","la empresa","10125"
-"empresa","de la empresa","3338"
-"empresa","de la empresa de","257"
-"antigua","la antigua","7486"
-"antigua","de la antigua","2979"
-"antigua","de la antigua grecia","194"
-"perú","del perú","6089"
-"perú","territorial del perú","1137"
-"calle","la calle","11025"
-"calle","en la calle","3304"
-"calle","en la calle de","365"
-"espacio","el espacio","5130"
-"espacio","en el espacio","1678"
-"espacio","en el espacio de","177"
-"joven","el joven","2643"
-"joven","que el joven","170"
-"gracias","gracias a","12212"
-"gracias","gracias a la","3505"
-"gracias","gracias a la ayuda","236"
-"alemán","en alemán","3489"
-"alemán","dinosaurierweb en alemán","171"
-"temas","los temas","8080"
-"temas","de los temas","991"
-"parís","de parís","5213"
-"parís","de parís en","536"
-"hijos","sus hijos","3415"
-"hijos","de sus hijos","915"
-"hijos","uno de sus hijos","162"
-"posición","la posición","16859"
-"posición","la posición de","2285"
-"década","la década","13224"
-"década","la década de","10977"
-"década","en la década de","4367"
-"década","en la década de los","1685"
-"década","en la década de los años","302"
-"altura","de altura","6320"
-"altura","metros de altura","2304"
-"altura","metros de altura y","422"
-"león","de león","5939"
-"león","de león y","615"
-"jugador","jugador de","5645"
-"jugador","un jugador de","1248"
-"canal","canal de","4941"
-"canal","el canal de","1234"
-"hermano","su hermano","8522"
-"hermano","a su hermano","1787"
-"posible","es posible","6519"
-"posible","es posible que","1575"
-"meses","meses de","3320"
-"meses","los meses de","1287"
-"meses","en los meses de","460"
-"meses","en los meses de verano","107"
-"situación","la situación","6353"
-"situación","la situación de","1236"
-"actividad","la actividad","5780"
-"actividad","de la actividad","1288"
-"autor","autor de","8444"
-"autor","autor de la","883"
-"fernando","san fernando","2246"
-"fernando","de san fernando","1305"
-"fernando","artes de san fernando","370"
-"fernando","bellas artes de san fernando","363"
-"fernando","de bellas artes de san fernando","363"
-"fernando","academia de bellas artes de san fernando","293"
-"fernando","real academia de bellas artes de san fernando","252"
-"fernando","la real academia de bellas artes de san fernando","231"
-"fernando","de la real academia de bellas artes de san fernando","128"
-"fernando","de la real academia de bellas artes de san fernando y","23"
-"novela","la novela","8075"
-"novela","de la novela","2186"
-"novela","de la novela de","317"
-"amor","amor de","5366"
-"amor","el amor de","584"
-"local","local de","11289"
-"local","local de la","345"
-"pequeño","un pequeño","6525"
-"pequeño","es un pequeño","871"
-"municipal","municipal de","14256"
-"municipal","término municipal de","1643"
-"va","va de","107138"
-"va","que va de","328"
-"principio","principio de","11728"
-"principio","el principio de","1614"
-"nacido","nacido en","8413"
-"nacido","nacido en la","596"
-"problemas","los problemas","3816"
-"problemas","los problemas de","1040"
-"problemas","los problemas de la","209"
-"existe","la existe","7058"
-"existe","la existe un","1"
-"cación","la cación","31776"
-"cación","de la cación","1591"
-"posee","posee una","3897"
-"posee","que posee una","286"
-"hija","hija de","6266"
-"hija","la hija de","1309"
-"seis","de seis","2691"
-"seis","de seis años","327"
-"jefe","jefe de","8195"
-"jefe","jefe de la","2174"
-"jefe","el jefe de la","444"
-"formación","la formación","13866"
-"formación","la formación de","3371"
-"superficie","la superficie","6109"
-"superficie","de la superficie","1601"
-"superficie","de la superficie de","309"
-"van","se van","9492"
-"van","se van a","327"
-"llegar","llegar a","14504"
-"llegar","llegar a la","1945"
-"blanco","blanco y","3132"
-"blanco","blanco y negro","987"
-"blanco","en blanco y negro","589"
-"blanco","en blanco y negro y","77"
-"consejo","consejo de","6236"
-"consejo","del consejo de","2158"
-"consejo","presidente del consejo de","421"
-"campeonato","el campeonato","7641"
-"campeonato","en el campeonato","2320"
-"campeonato","en el campeonato de","825"
-"campeonato","en el campeonato de europa","191"
-"sede","la sede","4621"
-"sede","la sede de","1597"
-"sede","la sede de la","779"
-"sede","es la sede de la","160"
-"zonas","las zonas","4861"
-"zonas","en las zonas","1675"
-"zonas","en las zonas de","282"
-"pasó","pasó a","7799"
-"pasó","pasó a ser","1955"
-"pasó","pasó a ser el","217"
-"libre","libre de","4414"
-"libre","libre de la","186"
-"clase","clase de","5372"
-"clase","la clase de","628"
-"imagen","la imagen","6648"
-"imagen","la imagen de","2556"
-"imagen","la imagen de la","956"
-"imagen","la imagen de la virgen","460"
-"imagen","la imagen de la virgen de","179"
-"imagen","la imagen de la virgen de la","66"
-"imagen","la imagen de la virgen de la soledad","8"
-"camino","el camino","5523"
-"camino","el camino de","1417"
-"camino","en el camino de","346"
-"cantidad","cantidad de","12431"
-"cantidad","gran cantidad de","4002"
-"cantidad","una gran cantidad de","1824"
-"cantidad","de una gran cantidad de","127"
-"noche","la noche","8473"
-"noche","de la noche","1904"
-"elementos","los elementos","3721"
-"elementos","de los elementos","1152"
-"elementos","uno de los elementos","260"
-"persona","persona de","12661"
-"persona","la persona de","315"
-"características","las características","3527"
-"características","las características de","1097"
-"características","de las características de","267"
-"fuerte","una fuerte","2247"
-"fuerte","con una fuerte","230"
-"propia","su propia","6299"
-"propia","de su propia","945"
-"victoria","la victoria","5631"
-"victoria","de la victoria","1356"
-"ministro","ministro de","9327"
-"ministro","primer ministro de","977"
-"acción","la acción","12057"
-"acción","la acción de","1269"
-"baja","baja en","11613"
-"baja","de baja en","194"
-"incluyendo","incluyendo el","1878"
-"incluyendo","incluyendo el de","71"
-"modelo","modelo de","5015"
-"modelo","el modelo de","1060"
-"actualidad","la actualidad","13034"
-"actualidad","en la actualidad","11268"
-"actualidad","en la actualidad se","1021"
-"roma","de roma","5503"
-"roma","de roma y","417"
-"tropas","las tropas","8688"
-"tropas","de las tropas","2105"
-"creación","la creación","9978"
-"creación","la creación de","6542"
-"creación","la creación de la","1565"
-"diversos","de diversos","2147"
-"diversos","parte de diversos","106"
-"periodo","periodo de","5373"
-"periodo","un periodo de","1646"
-"periodo","por un periodo de","252"
-"selección","la selección","8670"
-"selección","la selección de","3489"
-"selección","la selección de fútbol","1912"
-"selección","la selección de fútbol de","1741"
-"selección","con la selección de fútbol de","1019"
-"selección","internacional con la selección de fútbol de","804"
-"selección","sido internacional con la selección de fútbol de","726"
-"selección","ha sido internacional con la selección de fútbol de","726"
-"selección","nacional ha sido internacional con la selección de fútbol de","694"
-"selección","selección nacional ha sido internacional con la selección de fútbol de","694"
-"selección","francia selección nacional ha sido internacional con la selección de fútbol de","54"
-"interés","de interés","6903"
-"interés","lugares de interés","1697"
-"nombrado","fue nombrado","8138"
-"nombrado","fue nombrado director","436"
-"paz","paz de","8785"
-"paz","la paz de","725"
-"fecha","la fecha","5707"
-"fecha","hasta la fecha","2052"
-"fecha","hasta la fecha el","148"
-"incluye","que incluye","3884"
-"incluye","que incluye la","256"
-"cuyo","en cuyo","1624"
-"cuyo","en cuyo caso","322"
-"libros","libros de","2998"
-"libros","los libros de","840"
-"libros","de los libros de","224"
-"libros","uno de los libros de","26"
-"dicho","de dicho","3534"
-"dicho","de dicho año","254"
-"lengua","la lengua","6163"
-"lengua","de la lengua","2644"
-"lengua","de la lengua española","309"
-"islas","las islas","8653"
-"islas","de las islas","3236"
-"islas","de las islas de","292"
-"partes","partes de","3341"
-"partes","partes de la","961"
-"partes","las partes de la","111"
-"tercera","la tercera","7783"
-"tercera","de la tercera","1683"
-"capacidad","capacidad de","7165"
-"capacidad","la capacidad de","2947"
-"capacidad","de la capacidad de","275"
-"pequeña","una pequeña","6519"
-"pequeña","es una pequeña","954"
-"guitarra","la guitarra","2438"
-"guitarra","de la guitarra","438"
-"condado","condado de","8187"
-"condado","el condado de","3174"
-"condado","en el condado de","1424"
-"condado","ciudad en el condado de","179"
-"últimos","los últimos","9102"
-"últimos","en los últimos","4438"
-"últimos","en los últimos años","2610"
-"últimos","en los últimos años se","310"
-"profesor","profesor de","6388"
-"profesor","profesor de la","761"
-"torre","la torre","8425"
-"torre","de la torre","2740"
-"torre","de la torre de","366"
-"profesional","profesional de","2799"
-"profesional","profesional de la","298"
-"nuevos","los nuevos","3191"
-"nuevos","de los nuevos","781"
-"lugares","lugares de","4013"
-"lugares","lugares de interés","1697"
-"lugares","lugares de interés iglesia","287"
-"equipos","los equipos","3559"
-"equipos","de los equipos","982"
-"equipos","uno de los equipos","234"
-"situado","situado en","9794"
-"situado","situado en la","3388"
-"situado","está situado en la","660"
-"world","the world","5204"
-"world","of the world","2311"
-"world","fishes of the world","1319"
-"world","j fishes of the world","1312"
-"world","nelson j fishes of the world","1312"
-"world","","0"
-"estructura","la estructura","7012"
-"estructura","la estructura de","1408"
-"colombia","de colombia","4748"
-"colombia","de colombia y","424"
-"aproximadamente","de aproximadamente","2062"
-"aproximadamente","es de aproximadamente","375"
-"inglaterra","de inglaterra","4511"
-"inglaterra","de inglaterra y","604"
-"honor","en honor","6755"
-"honor","en honor a","3068"
-"honor","en honor a la","775"
-"honor","en honor a la virgen","293"
-"honor","en honor a la virgen de","156"
-"honor","en honor a la virgen de la","67"
-"honor","en honor a la virgen de la asunción","14"
-"defensa","de defensa","5023"
-"defensa","de defensa de","779"
-"mercado","el mercado","4738"
-"mercado","en el mercado","2677"
-"mercado","en el mercado de","518"
-"barrio","barrio de","5816"
-"barrio","el barrio de","2337"
-"barrio","en el barrio de","1455"
-"barrio","en el barrio de la","170"
-"cabeza","la cabeza","6653"
-"cabeza","la cabeza de","1564"
-"período","período de","4829"
-"período","un período de","1569"
-"período","en un período de","233"
-"xix","siglo xix","11345"
-"xix","del siglo xix","6928"
-"xix","finales del siglo xix","1565"
-"recibió","recibió el","3357"
-"recibió","recibió el premio","907"
-"recibió","recibió el premio nacional","108"
-"plata","de plata","6400"
-"plata","medalla de plata","1529"
-"tales","tales como","9514"
-"tales","tales como el","1358"
-"muestra","se muestra","4092"
-"muestra","se muestra en","478"
-"murió","murió en","5230"
-"murió","y murió en","608"
-"nuevas","las nuevas","3093"
-"nuevas","de las nuevas","705"
-"presenta","presenta de","10443"
-"presenta","se presenta de","48"
-"causa","causa de","8023"
-"causa","a causa de","4357"
-"causa","a causa de la","1196"
-"causa","a causa de la guerra","95"
-"primeras","las primeras","8823"
-"primeras","de las primeras","2338"
-"primeras","una de las primeras","1391"
-"primeras","fue una de las primeras","340"
-"londres","de londres","3977"
-"londres","de londres y","415"
-"única","la única","7067"
-"única","es la única","1719"
-"dado","dado de","18674"
-"dado","fue dado de","336"
-"fundación","la fundación","7627"
-"fundación","de la fundación","2684"
-"fundación","de la fundación de","607"
-"china","de china","3315"
-"china","de china y","295"
-"energía","de energía","4945"
-"energía","de energía eléctrica","443"
-"armas","de armas","4592"
-"armas","escudo de armas","955"
-"gobernador","gobernador de","4693"
-"gobernador","gobernador de la","1081"
-"episodio","el episodio","4205"
-"episodio","en el episodio","2360"
-"episodio","en el episodio de","214"
-"resultado","resultado de","7094"
-"resultado","el resultado de","2061"
-"resultado","el resultado de la","654"
-"resultado","es el resultado de la","207"
-"resultado","es el resultado de la fusión","49"
-"ayuda","ayuda a","9058"
-"ayuda","ayuda a los","367"
-"actividades","las actividades","3755"
-"actividades","de las actividades","978"
-"actividades","de las actividades de","201"
-"referencia","referencia a","6933"
-"referencia","hace referencia a","2057"
-"referencia","hace referencia a la","527"
-"referencia","que hace referencia a la","82"
-"cultural","cultural de","2702"
-"cultural","cultural de la","807"
-"cultural","centro cultural de la","189"
-"palacio","el palacio","5350"
-"palacio","el palacio de","2386"
-"palacio","en el palacio de","852"
-"palacio","en el palacio de la","118"
-"venezuela","de venezuela","4994"
-"venezuela","de venezuela en","416"
-"realizó","se realizó","3456"
-"realizó","se realizó en","946"
-"realizó","se realizó en el","169"
-"teoría","la teoría","6571"
-"teoría","la teoría de","3155"
-"teoría","la teoría de la","1208"
-"teoría","de la teoría de la","291"
-"permite","que permite","5009"
-"permite","lo que permite","672"
-"sistemas","sistemas de","4880"
-"sistemas","los sistemas de","1634"
-"sistemas","de los sistemas de","495"
-"sistemas","de los sistemas de información","28"
-"investigación","de investigación","5578"
-"investigación","de investigación y","683"
-"david","de david","1579"
-"david","de david y","84"
-"asociación","la asociación","7202"
-"asociación","de la asociación","3221"
-"asociación","de la asociación de","938"
-"asociación","presidente de la asociación de","133"
-"santo","de santo","3391"
-"santo","de santo domingo","1384"
-"santo","de santo domingo de","292"
-"presencia","la presencia","7356"
-"presencia","la presencia de","5111"
-"presencia","por la presencia de","620"
-"derechos","los derechos","6762"
-"derechos","los derechos de","2312"
-"derechos","de los derechos de","598"
-"derechos","de los derechos de los","186"
-"derechos","de los derechos de los animales","53"
-"derechos","de los derechos de los animales y","11"
-"casos","los casos","3694"
-"casos","de los casos","1556"
-"casos","mayoría de los casos","703"
-"casos","la mayoría de los casos","669"
-"casos","en la mayoría de los casos","594"
-"casos","que en la mayoría de los casos","56"
-"diseño","diseño de","3987"
-"diseño","el diseño de","1432"
-"diseño","en el diseño de","338"
-"japón","en japón","3777"
-"japón","en japón y","374"
-"castilla","de castilla","10583"
-"castilla","de castilla y","4143"
-"castilla","de castilla y león","3365"
-"castilla","autónoma de castilla y león","2151"
-"castilla","comunidad autónoma de castilla y león","2147"
-"castilla","comunidad autónoma de castilla y león españa","1476"
-"castilla","burgos comunidad autónoma de castilla y león españa","707"
-"castilla","de burgos comunidad autónoma de castilla y león españa","707"
-"castilla","provincia de burgos comunidad autónoma de castilla y león españa","706"
-"castilla","la provincia de burgos comunidad autónoma de castilla y león españa","695"
-"castilla","en la provincia de burgos comunidad autónoma de castilla y león españa","675"
-"castilla","en la provincia de burgos comunidad autónoma de castilla y león españa comarca","656"
-"castilla","en la provincia de burgos comunidad autónoma de castilla y león españa comarca de","653"
-"castilla","situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de","455"
-"castilla","localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de","405"
-"castilla","una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de","403"
-"castilla","es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de","395"
-"castilla","es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de merindades","117"
-"castilla","es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de merindades partido","116"
-"castilla","es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de merindades partido judicial","116"
-"castilla","es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de merindades partido judicial de","116"
-"xx","siglo xx","12768"
-"xx","del siglo xx","7903"
-"xx","principios del siglo xx","1481"
-"función","la función","4182"
-"función","la función de","1470"
-"función","de la función de","144"
-"ganó","ganó el","3504"
-"ganó","ganó el premio","828"
-"festival","festival de","5748"
-"festival","el festival de","2575"
-"festival","en el festival de","1751"
-"festival","en el festival de la","411"
-"ocasiones","en ocasiones","3650"
-"ocasiones","y en ocasiones","552"
-"longitud","de longitud","5253"
-"longitud","cm de longitud","1940"
-"longitud","cm de longitud total","1065"
-"longitud","cm de longitud total distribución","918"
-"longitud","cm de longitud total distribución geográfica","915"
-"longitud","cm de longitud total distribución geográfica se","906"
-"longitud","cm de longitud total distribución geográfica se encuentran","902"
-"longitud","cm de longitud total distribución geográfica se encuentran en","804"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica","257"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica brasil","80"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa","56"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem","52"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae","44"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south","44"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american","44"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual","44"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual fishes","44"
-"longitud","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual fishes lám","44"
-"longitud","","0"
-"brasil","de brasil","2856"
-"brasil","de brasil y","310"
-"niños","los niños","5404"
-"niños","de los niños","1263"
-"artículo","el artículo","2700"
-"artículo","en el artículo","724"
-"artículo","en el artículo de","48"
-"valor","valor de","4531"
-"valor","el valor de","1448"
-"valor","el valor de la","441"
-"valor","el valor de la moneda","31"
-"lleva","lleva a","20152"
-"lleva","lleva a cabo","1292"
-"tercer","la tercer","7929"
-"tercer","de la tercer","30"
-"lucha","la lucha","5709"
-"lucha","en la lucha","1257"
-"apoyo","el apoyo","4379"
-"apoyo","el apoyo de","2225"
-"apoyo","con el apoyo de","1144"
-"apoyo","con el apoyo de la","227"
-"negro","negro y","2134"
-"negro","negro y el","145"
-"importancia","la importancia","2876"
-"importancia","la importancia de","1561"
-"importancia","la importancia de la","504"
-"importancia","de la importancia de la","71"
-"emperador","el emperador","4157"
-"emperador","por el emperador","571"
-"templo","el templo","4185"
-"templo","el templo de","1385"
-"templo","en el templo de","330"
-"garcía","garcía de","967"
-"garcía","garcía de la","129"
-"mando","mando de","6098"
-"mando","al mando de","2726"
-"mando","al mando de la","343"
-"gente","la gente","7028"
-"gente","a la gente","1195"
-"unido","estados unido","42778"
-"unido","los estados unido","4"
-"diversas","en diversas","2127"
-"diversas","en diversas ocasiones","256"
-"tamaño","el tamaño","2598"
-"tamaño","el tamaño de","993"
-"tamaño","el tamaño de la","310"
-"tamaño","que el tamaño de la","22"
-"personal","personal de","3572"
-"personal","personal de la","364"
-"comienza","comienza a","6539"
-"comienza","y comienza a","526"
-"obtuvo","obtuvo el","3180"
-"obtuvo","obtuvo el premio","573"
-"realizar","para realizar","3061"
-"realizar","para realizar el","294"
-"fuente","fuente de","6486"
-"fuente","la fuente de","1158"
-"usa","usa de","13832"
-"usa","se usa de","44"
-"estrella","la estrella","3863"
-"estrella","de la estrella","1252"
-"estrella","de la estrella de","191"
-"relaciones","las relaciones","4453"
-"relaciones","las relaciones entre","938"
-"cuya","y cuya","982"
-"cuya","y cuya función","30"
-"ésta","de ésta","3452"
-"ésta","de ésta en","146"
-"cantante","la cantante","2874"
-"cantante","de la cantante","1220"
-"cantante","estudio de la cantante","105"
-"actor","actor de","5123"
-"actor","mejor actor de","386"
-"california","de california","2972"
-"california","universidad de california","609"
-"trabajos","los trabajos","3050"
-"trabajos","los trabajos de","1288"
-"trabajos","de los trabajos de","226"
-"palabra","la palabra","8164"
-"palabra","de la palabra","2305"
-"palabra","deriva de la palabra","169"
-"escritor","escritor y","2543"
-"escritor","un escritor y","358"
-"artes","artes de","6704"
-"artes","bellas artes de","1862"
-"artes","de bellas artes de","1787"
-"artes","academia de bellas artes de","585"
-"artes","real academia de bellas artes de","353"
-"artes","la real academia de bellas artes de","324"
-"artes","la real academia de bellas artes de san","261"
-"artes","la real academia de bellas artes de san fernando","231"
-"artes","de la real academia de bellas artes de san fernando","128"
-"artes","de la real academia de bellas artes de san fernando y","23"
-"revolución","la revolución","9315"
-"revolución","de la revolución","3425"
-"revolución","de la revolución de","612"
-"et","et de","124189"
-"et","et de la","107"
-"vista","la vista","12738"
-"vista","a la vista","692"
-"calidad","la calidad","13821"
-"calidad","la calidad de","1778"
-"similar","similar a","6909"
-"similar","similar a la","2287"
-"similar","similar a la de","676"
-"similar","similar a la de los","149"
-"congreso","el congreso","4382"
-"congreso","el congreso de","1516"
-"congreso","en el congreso de","662"
-"congreso","en el congreso de los","264"
-"congreso","en el congreso de los diputados","222"
-"congreso","ficha en el congreso de los diputados","21"
-"velocidad","velocidad de","3760"
-"velocidad","la velocidad de","1633"
-"velocidad","la velocidad de la","476"
-"velocidad","la velocidad de la luz","300"
-"velocidad","a la velocidad de la luz","83"
-"velocidad","a la velocidad de la luz y","9"
-"independencia","la independencia","6718"
-"independencia","de la independencia","3251"
-"independencia","guerra de la independencia","1016"
-"independencia","la guerra de la independencia","912"
-"independencia","durante la guerra de la independencia","288"
-"independencia","durante la guerra de la independencia española","60"
-"sol","sol de","13113"
-"sol","el sol de","258"
-"películas","las películas","2403"
-"películas","de las películas","838"
-"películas","de las películas de","256"
-"películas","de las películas de la","34"
-"carácter","de carácter","4355"
-"carácter","es de carácter","154"
-"siete","los siete","2014"
-"siete","de los siete","807"
-"siete","de los siete años","198"
-"conoce","se conoce","10322"
-"conoce","se conoce como","2454"
-"mitad","la mitad","5192"
-"mitad","la mitad de","2463"
-"mitad","la mitad de la","804"
-"mitad","de la mitad de la","166"
-"aire","buenos aire","20067"
-"aire","buenos aire coautor","1"
-"tierras","las tierras","4350"
-"tierras","de las tierras","1359"
-"tierras","de las tierras de","247"
-"iv","iv de","137980"
-"iv","enrique iv de","252"
-"material","de material","2965"
-"material","de material de","154"
-"generalmente","generalmente se","1030"
-"generalmente","que generalmente se","116"
-"dar","de dar","11260"
-"dar","de dar a","185"
-"realidad","en realidad","5971"
-"realidad","que en realidad","945"
-"economía","la economía","5447"
-"economía","de la economía","1644"
-"economía","de la economía de","217"
-"esposa","su esposa","5674"
-"esposa","de su esposa","1144"
-"participó","participó en","8388"
-"participó","participó en la","3393"
-"participó","que participó en la","711"
-"sector","el sector","5001"
-"sector","en el sector","2315"
-"sector","en el sector de","479"
-"torneo","el torneo","4211"
-"torneo","en el torneo","1566"
-"torneo","en el torneo de","477"
-"torneo","en el torneo de la","53"
-"argentino","argentino de","1077"
-"argentino","argentino de la","118"
-"diferencia","diferencia de","7873"
-"diferencia","a diferencia de","4207"
-"diferencia","a diferencia de los","824"
-"contiene","que contiene","4036"
-"contiene","que contiene el","260"
-"publicado","publicado en","6008"
-"publicado","fue publicado en","788"
-"academia","la academia","7463"
-"academia","de la academia","3726"
-"academia","de la academia de","1267"
-"academia","de la academia de ciencias","263"
-"medios","medios de","5494"
-"medios","medios de comunicación","2966"
-"medios","los medios de comunicación","1620"
-"medios","de los medios de comunicación","409"
-"medios","de los medios de comunicación y","52"
-"corte","la corte","7700"
-"corte","de la corte","2569"
-"corte","de la corte suprema","603"
-"virgen","la virgen","8936"
-"virgen","de la virgen","4778"
-"virgen","de la virgen de","1623"
-"virgen","de la virgen de la","658"
-"virgen","imagen de la virgen de la","87"
-"objetivo","el objetivo","5240"
-"objetivo","el objetivo de","3229"
-"objetivo","con el objetivo de","2203"
-"objetivo","con el objetivo de que","80"
-"seguridad","de seguridad","5903"
-"seguridad","de seguridad de","651"
-"influencia","la influencia","4084"
-"influencia","la influencia de","2059"
-"influencia","la influencia de la","471"
-"dicha","de dicha","3667"
-"dicha","de dicha ciudad","244"
-"mano","mano de","13674"
-"mano","la mano de","1796"
-"ciencias","de ciencias","4960"
-"ciencias","facultad de ciencias","1284"
-"ciencias","la facultad de ciencias","799"
-"ciencias","de la facultad de ciencias","301"
-"ciencias","de la facultad de ciencias de","56"
-"campeón","campeón de","4950"
-"campeón","campeón de la","1831"
-"campeón","campeón de la copa","518"
-"campeón","campeón de la copa de","176"
-"campeón","campeón de la copa de la","31"
-"sierra","la sierra","7283"
-"sierra","de la sierra","3818"
-"sierra","de la sierra de","1317"
-"sierra","de la sierra de guadarrama","222"
-"colegio","el colegio","4609"
-"colegio","en el colegio","2490"
-"colegio","en el colegio de","689"
-"colegio","en el colegio de los","113"
-"administración","la administración","5906"
-"administración","de la administración","1834"
-"administración","de la administración de","328"
-"ataque","el ataque","3091"
-"ataque","el ataque de","588"
-"pueblos","los pueblos","5597"
-"pueblos","de los pueblos","2284"
-"pueblos","de los pueblos de","348"
-"cm","cm de","6492"
-"cm","cm de longitud","1940"
-"cm","cm de longitud total","1065"
-"cm","cm de longitud total distribución","918"
-"cm","cm de longitud total distribución geográfica","915"
-"cm","cm de longitud total distribución geográfica se","906"
-"cm","cm de longitud total distribución geográfica se encuentran","902"
-"cm","cm de longitud total distribución geográfica se encuentran en","804"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica","257"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica brasil","80"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa","56"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem","52"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae","44"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south","44"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american","44"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual","44"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual fishes","44"
-"cm","cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual fishes lám","44"
-"cm","","0"
-"significa","que significa","5017"
-"significa","lo que significa","636"
-"manos","los manos","10245"
-"manos","los manos de","4"
-"literatura","la literatura","5507"
-"literatura","de la literatura","2179"
-"literatura","historia de la literatura","300"
-"mayores","mayores de","2090"
-"mayores","mujeres mayores de","493"
-"sigue","que sigue","2525"
-"sigue","que sigue al","139"
-"considerado","considerado como","3570"
-"considerado","es considerado como","796"
-"libertad","la libertad","5166"
-"libertad","de la libertad","1564"
-"libertad","de la libertad de","291"
-"mejores","los mejores","4675"
-"mejores","de los mejores","2753"
-"mejores","uno de los mejores","2027"
-"mejores","como uno de los mejores","527"
-"mejores","considerado como uno de los mejores","157"
-"mejores","está considerado como uno de los mejores","52"
-"mejores","y está considerado como uno de los mejores","6"
-"aguas","las aguas","4092"
-"aguas","de las aguas","1135"
-"aguas","de las aguas del","156"
-"entrada","la entrada","5770"
-"entrada","la entrada de","1729"
-"entrada","la entrada de la","446"
-"entrada","a la entrada de la","134"
-"entrada","a la entrada de la ciudad","16"
-"podría","que podría","2903"
-"podría","que podría ser","401"
-"unidad","la unidad","21234"
-"unidad","la unidad de","1200"
-"ex","ex de","65003"
-"ex","ex de los","4"
-"tratado","tratado de","6225"
-"tratado","el tratado de","2606"
-"tratado","en el tratado de","334"
-"ayuntamiento","ayuntamiento de","6252"
-"ayuntamiento","del ayuntamiento de","1802"
-"ayuntamiento","web del ayuntamiento de","233"
-"martín","san martín","4681"
-"martín","de san martín","1849"
-"martín","josé de san martín","389"
-"elegido","fue elegido","5253"
-"elegido","fue elegido en","762"
-"respecto","respecto a","5562"
-"respecto","con respecto a","2367"
-"respecto","con respecto a la","878"
-"respecto","con respecto a la eclíptica","15"
-"tipos","tipos de","8097"
-"tipos","dos tipos de","1015"
-"parece","parece en","10384"
-"parece","se parece en","22"
-"semana","la semana","3212"
-"semana","de la semana","1158"
-"semana","de la semana santa","348"
-"semana","de la semana santa de","112"
-"semana","de la semana santa de sevilla","15"
-"fuentes","las fuentes","2454"
-"fuentes","de las fuentes","708"
-"fuentes","de las fuentes de","146"
-"formas","las formas","4090"
-"formas","las formas de","741"
-"idea","idea de","7191"
-"idea","la idea de","4215"
-"idea","la idea de que","840"
-"verano","el verano","3738"
-"verano","en el verano","1930"
-"verano","en el verano de","1216"
-"verano","en el verano de ese","24"
-"comercial","comercial de","2661"
-"comercial","comercial de la","385"
-"etapa","etapa de","3206"
-"etapa","etapa de la","685"
-"editorial","la editorial","2242"
-"editorial","de la editorial","617"
-"editorial","página de la editorial","28"
-"enrique","de enrique","1881"
-"enrique","de enrique iv","222"
-"horas","horas de","2100"
-"horas","horas de la","426"
-"acceso","acceso a","3969"
-"acceso","acceso a la","1299"
-"acceso","el acceso a la","393"
-"acceso","el acceso a la información","28"
-"buena","una buena","2872"
-"buena","de una buena","218"
-"piedra","de piedra","5291"
-"piedra","de piedra y","416"
-"categoría","la categoría","4899"
-"categoría","la categoría de","2484"
-"categoría","en la categoría de","968"
-"categoría","en la categoría de mejor","217"
-"italiano","en italiano","2097"
-"italiano","en italiano de","131"
-"video","de video","4321"
-"video","de video y","80"
-"ed","ed de","165910"
-"ed","ed de la","27"
-"volvió","volvió a","7776"
-"volvió","se volvió a","665"
-"campaña","la campaña","4755"
-"campaña","la campaña de","1340"
-"campaña","en la campaña de","374"
-"campaña","participó en la campaña de","56"
-"jorge","de jorge","1075"
-"jorge","de jorge luis","91"
-"occidental","occidental de","2185"
-"occidental","occidental de la","719"
-"occidental","parte occidental de la","141"
-"condiciones","las condiciones","3964"
-"condiciones","las condiciones de","1196"
-"condiciones","las condiciones de vida","212"
-"restos","restos de","4486"
-"restos","los restos de","2110"
-"restos","los restos de la","407"
-"combate","de combate","3367"
-"combate","de combate de","329"
-"municipales","elecciones municipales","7911"
-"municipales","elecciones municipales de","6728"
-"municipales","demografía elecciones municipales de","1698"
-"municipales","sainthippolyte demografía elecciones municipales de","16"
-"señor","señor de","9879"
-"señor","el señor de","1084"
-"aeropuerto","el aeropuerto","3776"
-"aeropuerto","el aeropuerto de","1068"
-"aeropuerto","en el aeropuerto de","209"
-"tiempos","los tiempos","3543"
-"tiempos","todos los tiempos","1306"
-"tiempos","de todos los tiempos","1259"
-"tiempos","de todos los tiempos en","143"
-"productos","de productos","2493"
-"productos","de productos de","337"
-"reina","la reina","6853"
-"reina","de la reina","2542"
-"reina","de la reina isabel","276"
-"puente","el puente","3390"
-"puente","el puente de","1049"
-"puente","el puente de la","175"
-"federal","federal de","2595"
-"federal","república federal de","237"
-"decidió","se decidió","1645"
-"decidió","se decidió que","254"
-"madera","de madera","6241"
-"madera","de madera y","680"
-"programas","programas de","3761"
-"programas","los programas de","843"
-"matrimonio","matrimonio con","2395"
-"matrimonio","contrajo matrimonio con","999"
-"matrimonio","contrajo matrimonio con la","142"
-"llega","llega a","30466"
-"llega","llega a la","1115"
-"ríos","los ríos","5058"
-"ríos","de los ríos","2286"
-"ríos","confluencia de los ríos","223"
-"fuego","de fuego","3347"
-"fuego","armas de fuego","544"
-"diario","el diario","3593"
-"diario","en el diario","1320"
-"diario","en el diario el","251"
-"izquierda","la izquierda","4079"
-"izquierda","a la izquierda","1651"
-"izquierda","a la izquierda del","225"
-"utiliza","se utiliza","9390"
-"utiliza","se utiliza para","1376"
-"cámara","la cámara","5876"
-"cámara","la cámara de","2956"
-"cámara","de la cámara de","1132"
-"cámara","de la cámara de diputados","408"
-"cámara","de la cámara de diputados de","98"
-"nacionales","nacionales de","2505"
-"nacionales","parques nacionales de","143"
-"toma","toma de","5164"
-"toma","la toma de","1812"
-"toma","en la toma de","367"
-"premios","los premios","2726"
-"premios","de los premios","750"
-"premios","entrega de los premios","116"
-"jesús","de jesús","4045"
-"jesús","compañía de jesús","644"
-"príncipe","el príncipe","3507"
-"príncipe","el príncipe de","514"
-"pública","la pública","19308"
-"pública","en la pública","6"
-"mas","mas de","39083"
-"mas","de mas de","80"
-"vía","vía de","4397"
-"vía","la vía de","441"
-"capitán","el capitán","3279"
-"capitán","el capitán de","483"
-"aquí","de aquí","1621"
-"aquí","partir de aquí","304"
-"animales","los animales","2666"
-"animales","de los animales","966"
-"animales","derechos de los animales","117"
-"españoles","los españoles","3888"
-"españoles","de los españoles","987"
-"españoles","llegada de los españoles","345"
-"españoles","la llegada de los españoles","342"
-"españoles","de la llegada de los españoles","124"
-"españoles","antes de la llegada de los españoles","106"
-"españoles","antes de la llegada de los españoles a","13"
-"pudo","no pudo","2865"
-"pudo","que no pudo","360"
-"medida","medida que","3079"
-"medida","a medida que","2452"
-"medida","a medida que se","458"
-"conde","conde de","9488"
-"conde","el conde de","919"
-"pablo","juan pablo","1779"
-"pablo","juan pablo ii","1015"
-"pablo","papa juan pablo ii","495"
-"pablo","el papa juan pablo ii","344"
-"pablo","por el papa juan pablo ii","132"
-"pablo","por el papa juan pablo ii el","36"
-"pablo","beatificados por el papa juan pablo ii el","5"
-"llevó","llevó a","6835"
-"llevó","llevó a cabo","2586"
-"llevó","se llevó a cabo","1509"
-"llevó","se llevó a cabo en","465"
-"llevó","se llevó a cabo en el","102"
-"encontrar","encontrar en","2947"
-"encontrar","puede encontrar en","453"
-"numerosos","de numerosos","1232"
-"numerosos","autor de numerosos","145"
-"felipe","de felipe","2073"
-"felipe","de felipe ii","631"
-"felipe","reinado de felipe ii","93"
-"artistas","de artistas","1911"
-"artistas","de artistas de","227"
-"demás","demás de","21421"
-"demás","los demás de","79"
-"humanos","derechos humanos","2731"
-"humanos","los derechos humanos","1454"
-"humanos","de los derechos humanos","745"
-"humanos","defensa de los derechos humanos","125"
-"alguna","alguna de","7247"
-"alguna","alguna de las","561"
-"rojo","rojo y","1718"
-"rojo","color rojo y","180"
-"industria","la industria","7359"
-"industria","de la industria","2084"
-"industria","de la industria de","294"
-"pasado","el pasado","2767"
-"pasado","en el pasado","1698"
-"pasado","que en el pasado","140"
-"kilómetros","kilómetros de","3760"
-"kilómetros","kilómetros de la","1513"
-"kilómetros","kilómetros de la capital","856"
-"kilómetros","kilómetros de la capital municipal","476"
-"kilómetros","kilómetros de la capital municipal la","32"
-"lópez","lópez de","1203"
-"lópez","diego lópez de","125"
-"pocos","los pocos","2122"
-"pocos","de los pocos","1100"
-"pocos","uno de los pocos","899"
-"pocos","es uno de los pocos","326"
-"pocos","y es uno de los pocos","21"
-"comunicación","de comunicación","6150"
-"comunicación","medios de comunicación","2966"
-"comunicación","los medios de comunicación","1620"
-"comunicación","de los medios de comunicación","409"
-"comunicación","de los medios de comunicación y","52"
-"maestro","maestro de","3043"
-"maestro","el maestro de","392"
-"tv","de tv","4855"
-"tv","serie de tv","942"
-"hermanos","los hermanos","4073"
-"hermanos","de los hermanos","1209"
-"hermanos","de los hermanos de","108"
-"ningún","en ningún","1156"
-"ningún","en ningún momento","318"
-"ningún","en ningún momento se","41"
-"municipios","los municipios","4031"
-"municipios","los municipios de","2359"
-"municipios","con los municipios de","777"
-"municipios","limita con los municipios de","139"
-"líder","líder de","4072"
-"líder","líder de la","1412"
-"líder","el líder de la","446"
-"líder","el líder de la banda","88"
-"texto","el texto","4437"
-"texto","en el texto","400"
-"realiza","se realiza","9994"
-"realiza","se realiza en","831"
-"imágenes","imágenes de","2550"
-"imágenes","imágenes de la","580"
-"james","de james","1300"
-"james","de james bond","227"
-"azul","azul y","1704"
-"azul","azul y blanco","107"
-"empezó","empezó a","6131"
-"empezó","se empezó a","750"
-"metal","de metal","2807"
-"metal","banda de metal","145"
-"verde","verde y","1929"
-"verde","color verde y","420"
-"histórico","histórico de","2902"
-"histórico","histórico de la","740"
-"histórico","histórico de la ciudad","327"
-"histórico","centro histórico de la ciudad","201"
-"histórico","el centro histórico de la ciudad","111"
-"histórico","en el centro histórico de la ciudad","70"
-"histórico","en el centro histórico de la ciudad de","40"
-"histórico","en el centro histórico de la ciudad de méxico","15"
-"histórico","en el centro histórico de la ciudad de méxico y","2"
-"constitución","la constitución","6622"
-"constitución","la constitución de","2385"
-"constitución","de la constitución de","633"
-"constitución","de la constitución de la","100"
-"viaje","el viaje","2292"
-"viaje","el viaje de","505"
-"logró","que logró","869"
-"logró","que logró el","78"
-"escribió","escribió el","901"
-"escribió","escribió el libro","127"
-"jóvenes","los jóvenes","2438"
-"jóvenes","de los jóvenes","590"
-"nº","el nº","530"
-"nº","en el nº","111"
-"dirigida","dirigida por","8761"
-"dirigida","dirigida por el","850"
-"técnica","técnica de","4459"
-"técnica","la técnica de","714"
-"todavía","que todavía","1125"
-"todavía","que todavía no","199"
-"valencia","de valencia","4673"
-"valencia","de valencia y","476"
-"existencia","la existencia","6936"
-"existencia","la existencia de","5118"
-"existencia","de la existencia de","894"
-"creado","creado por","3793"
-"creado","fue creado por","723"
-"sociales","sociales y","1682"
-"sociales","ciencias sociales y","219"
-"alfonso","de alfonso","2083"
-"alfonso","de alfonso x","339"
-"pequeños","más pequeños","1123"
-"pequeños","los más pequeños","220"
-"ambas","de ambas","1349"
-"ambas","de ambas partes","61"
-"censo","el censo","8603"
-"censo","el censo de","4585"
-"censo","en el censo de","2580"
-"censo","población en el censo de","1440"
-"censo","su población en el censo de","1428"
-"censo","córcega su población en el censo de","182"
-"palabras","las palabras","2622"
-"palabras","de las palabras","762"
-"palabras","de las palabras en","56"
-"distancia","distancia de","2738"
-"distancia","una distancia de","1170"
-"distancia","a una distancia de","913"
-"distancia","está a una distancia de","428"
-"distancia","españa está a una distancia de","311"
-"distancia","león españa está a una distancia de","307"
-"distancia","y león españa está a una distancia de","307"
-"distancia","castilla y león españa está a una distancia de","307"
-"distancia","de castilla y león españa está a una distancia de","307"
-"distancia","autónoma de castilla y león españa está a una distancia de","307"
-"distancia","comunidad autónoma de castilla y león españa está a una distancia de","307"
-"distancia","la comunidad autónoma de castilla y león españa está a una distancia de","306"
-"distancia","en la comunidad autónoma de castilla y león españa está a una distancia de","306"
-"distancia","salamanca en la comunidad autónoma de castilla y león españa está a una distancia de","289"
-"distancia","de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de","289"
-"distancia","provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de","289"
-"distancia","la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de","289"
-"distancia","en la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de","281"
-"distancia","municipio en la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de","280"
-"distancia","un municipio en la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de","280"
-"distancia","es un municipio en la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de","279"
-"efecto","efecto de","4217"
-"efecto","el efecto de","741"
-"colección","colección de","5080"
-"colección","una colección de","1343"
-"colección","es una colección de","189"
-"oriental","oriental de","1986"
-"oriental","oriental de la","604"
-"oriental","parte oriental de la","108"
-"paul","de paul","1985"
-"paul","vicente de paul","62"
-"algún","en algún","1685"
-"algún","en algún momento","637"
-"algún","en algún momento de","121"
-"ruta","la ruta","6284"
-"ruta","de la ruta","1322"
-"arquitectura","la arquitectura","3748"
-"arquitectura","de la arquitectura","1539"
-"arquitectura","de la arquitectura de","136"
-"suele","suele ser","3423"
-"suele","que suele ser","164"
-"salud","de salud","4115"
-"salud","de salud y","457"
-"bastante","es bastante","1401"
-"bastante","que es bastante","63"
-"independiente","independiente de","2897"
-"independiente","independiente de la","375"
-"objeto","objeto de","5363"
-"objeto","el objeto de","1058"
-"comercio","el comercio","3085"
-"comercio","el comercio de","521"
-"resultados","los resultados","3363"
-"resultados","los resultados de","1142"
-"resultados","los resultados de la","265"
-"menudo","a menudo","9351"
-"menudo","a menudo se","1056"
-"actriz","la actriz","2313"
-"actriz","con la actriz","475"
-"plan","plan de","9687"
-"plan","el plan de","1177"
-"produce","se produce","7219"
-"produce","se produce en","770"
-"siglos","los siglos","5047"
-"siglos","de los siglos","1916"
-"siglos","largo de los siglos","355"
-"militares","los militares","1278"
-"militares","de los militares","284"
-"mes","mes de","14109"
-"mes","el mes de","2923"
-"escrito","escrito por","3570"
-"escrito","fue escrito por","601"
-"formar","formar parte","4354"
-"formar","a formar parte","2502"
-"formar","a formar parte de","1431"
-"formar","a formar parte de la","847"
-"formar","pasó a formar parte de la","198"
-"diez","diez años","2462"
-"diez","de diez años","396"
-"xviii","siglo xviii","6890"
-"xviii","del siglo xviii","3846"
-"xviii","finales del siglo xviii","561"
-"jugadores","los jugadores","3223"
-"jugadores","de los jugadores","801"
-"figura","la figura","5073"
-"figura","la figura de","1592"
-"figura","la figura de la","212"
-"love","of love","866"
-"love","tunnel of love","43"
-"michael","de michael","1114"
-"michael","de michael jackson","131"
-"internacionales","internacionales de","1022"
-"internacionales","internacionales de la","153"
-"crear","para crear","2637"
-"crear","para crear un","516"
-"pasa","pasa a","11900"
-"pasa","pasa a ser","1041"
-"futuro","el futuro","3886"
-"futuro","en el futuro","1432"
-"futuro","que en el futuro","134"
-"cuanto","en cuanto","7297"
-"cuanto","en cuanto a","5138"
-"cuanto","en cuanto a la","1422"
-"cuanto","en cuanto a la fauna","42"
-"biblioteca","la biblioteca","4868"
-"biblioteca","de la biblioteca","1440"
-"biblioteca","de la biblioteca nacional","308"
-"xvi","siglo xvi","18673"
-"xvi","del siglo xvi","3541"
-"duque","duque de","8065"
-"duque","el duque de","1213"
-"robert","de robert","1837"
-"robert","de robert a","33"
-"córdoba","de córdoba","5273"
-"córdoba","provincia de córdoba","1089"
-"amigo","amigo de","3958"
-"amigo","amigo de la","346"
-"william","de william","1533"
-"william","de william shakespeare","224"
-"hacen","se hacen","1685"
-"hacen","que se hacen","255"
-"representa","representa de","7671"
-"representa","se representa de","12"
-"reyes","los reyes","4875"
-"reyes","de los reyes","2497"
-"reyes","de los reyes católicos","425"
-"acerca","acerca de","6710"
-"acerca","acerca de la","2185"
-"acerca","acerca de la vida","87"
-"domingo","santo domingo","2685"
-"domingo","de santo domingo","1384"
-"domingo","de santo domingo de","292"
-"sonido","el sonido","2332"
-"sonido","el sonido de","663"
-"sonido","el sonido de la","204"
-"sonido","el sonido de la banda","54"
-"sonido","en el sonido de la banda","11"
-"tradición","la tradición","5402"
-"tradición","de la tradición","973"
-"romano","los romano","3316"
-"romano","","0"
-"fondo","el fondo","2838"
-"fondo","en el fondo","1198"
-"fondo","en el fondo de","294"
-"catedral","la catedral","6814"
-"catedral","la catedral de","3457"
-"catedral","de la catedral de","1487"
-"catedral","de la catedral de san","73"
-"carretera","la carretera","5469"
-"carretera","de la carretera","1435"
-"carretera","de la carretera de","181"
-"transporte","de transporte","4825"
-"transporte","de transporte de","640"
-"lago","el lago","4464"
-"lago","en el lago","725"
-"numerosas","en numerosas","1310"
-"numerosas","en numerosas ocasiones","438"
-"numerosas","en numerosas ocasiones en","43"
-"ciencia","de ciencia","8602"
-"ciencia","de ciencia ficción","1384"
-"mediados","a mediados","6193"
-"mediados","a mediados de","3649"
-"mediados","a mediados de los","1055"
-"mediados","a mediados de los años","601"
-"mediados","a mediados de los años ochenta","26"
-"tradicional","tradicional de","2381"
-"tradicional","tradicional de la","380"
-"haciendo","haciendo que","1137"
-"haciendo","haciendo que el","174"
-"referirse","referirse a","8279"
-"referirse","puede referirse a","6282"
-"referirse","puede referirse a el","763"
-"empresas","las empresas","2646"
-"empresas","de las empresas","934"
-"empresas","de las empresas de","122"
-"monte","de monte","6755"
-"monte","de monte carlo","104"
-"económica","económica y","1920"
-"económica","económica y social","203"
-"participación","la participación","3480"
-"participación","la participación de","1924"
-"participación","con la participación de","838"
-"participación","contó con la participación de","135"
-"national","géographique national","2485"
-"national","institut géographique national","2446"
-"national","del institut géographique national","633"
-"national","del institut géographique national en","572"
-"national","del institut géographique national en francés","572"
-"national","web del institut géographique national en francés","541"
-"national","sitio web del institut géographique national en francés","539"
-"national","el sitio web del institut géographique national en francés","539"
-"national","en el sitio web del institut géographique national en francés","539"
-"national","en el sitio web del institut géographique national en francés le","32"
-"líneas","las líneas","3311"
-"líneas","las líneas de","996"
-"líneas","de las líneas de","250"
-"líneas","una de las líneas de","28"
-"cosas","las cosas","3585"
-"cosas","de las cosas","798"
-"sevilla","de sevilla","4102"
-"sevilla","de sevilla y","400"
-"niño","los niño","5415"
-"niño","los niño de","4"
-"locales","locales de","1203"
-"locales","elecciones locales de","222"
-"nombres","los nombres","3577"
-"nombres","los nombres de","1907"
-"nombres","los nombres de los","574"
-"nombres","de los nombres de los","64"
-"grado","grado de","6944"
-"grado","el grado de","2454"
-"grado","con el grado de","493"
-"motor","motor de","3745"
-"motor","un motor de","565"
-"capilla","la capilla","4910"
-"capilla","la capilla de","1484"
-"capilla","la capilla de la","430"
-"capilla","de la capilla de la","86"
-"distintos","los distintos","2146"
-"distintos","de los distintos","576"
-"distintos","de los distintos tipos","33"
-"casas","las casas","2986"
-"casas","de las casas","1069"
-"casas","de las casas de","176"
-"george","de george","1619"
-"george","de george w","78"
-"diego","san diego","2368"
-"diego","de san diego","1094"
-"diego","de san diego california","157"
-"llama","se llama","7626"
-"llama","que se llama","594"
-"naturaleza","la naturaleza","5853"
-"naturaleza","de la naturaleza","1959"
-"naturaleza","de la naturaleza y","278"
-"amigos","sus amigos","2579"
-"amigos","y sus amigos","565"
-"recursos","los recursos","2808"
-"recursos","de los recursos","1168"
-"recursos","de los recursos naturales","267"
-"quedó","quedó en","1337"
-"quedó","se quedó en","296"
-"blanca","blanca y","1438"
-"blanca","blanca y la","64"
-"biografía","biografía de","2505"
-"biografía","la biografía de","242"
-"mil","mil de","46543"
-"mil","mil de ellos","10"
-"medalla","medalla de","7359"
-"medalla","medalla de oro","3013"
-"medalla","la medalla de oro","1364"
-"medalla","la medalla de oro en","522"
-"medalla","la medalla de oro en los","224"
-"medalla","la medalla de oro en los juegos","167"
-"medalla","la medalla de oro en los juegos olímpicos","122"
-"medalla","la medalla de oro en los juegos olímpicos de","116"
-"medalla","de la medalla de oro en los juegos olímpicos de","32"
-"medalla","ganador de la medalla de oro en los juegos olímpicos de","29"
-"medalla","argentino ganador de la medalla de oro en los juegos olímpicos de","10"
-"medalla","argentino ganador de la medalla de oro en los juegos olímpicos de parís","5"
-"medalla","polo argentino ganador de la medalla de oro en los juegos olímpicos de parís","5"
-"medalla","de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís","5"
-"medalla","jugador de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís","5"
-"medalla","un jugador de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís","5"
-"medalla","fue un jugador de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís","4"
-"medalla","unzué fue un jugador de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís","1"
-"propiedad","propiedad de","3852"
-"propiedad","propiedad de la","864"
+Palabra Principal,Frase,Count
+años,los años,31729
+años,de los años,10600
+años,finales de los años,1460
+dos,los dos,103002
+dos,de los dos,3308
+ser,ser de,51893
+ser,puede ser de,413
+parte,parte de,60261
+parte,parte de la,19794
+parte,forma parte de la,2406
+ciudad,la ciudad,91747
+ciudad,la ciudad de,39165
+ciudad,de la ciudad de,14739
+ciudad,de la ciudad de méxico,1396
+año,el año,51215
+año,en el año,28440
+año,en el año de,1927
+gran,de gran,23429
+gran,de gran canaria,1011
+san,de san,88545
+san,de san juan,4609
+después,después de,52590
+después,después de la,12590
+nombre,el nombre,41586
+nombre,el nombre de,21954
+nombre,con el nombre de,5418
+puede,se puede,29098
+puede,que se puede,2175
+primera,la primera,47561
+primera,de la primera,8451
+primer,la primer,48613
+primer,en la primer,134
+así,así como,29135
+así,así como la,3181
+forma,forma de,39522
+forma,en forma de,6600
+siglo,del siglo,38720
+siglo,del siglo xx,7903
+mismo,el mismo,20949
+mismo,en el mismo,4983
+si,si de,314471
+si,como si de,128
+aunque,aunque no,5827
+aunque,aunque no se,828
+españa,de españa,20849
+españa,de españa en,3062
+nacional,nacional de,36448
+nacional,nacional de la,1787
+tres,de tres,9923
+tres,de tres años,745
+guerra,la guerra,36336
+guerra,de la guerra,10933
+guerra,de la guerra de,2297
+historia,la historia,32303
+historia,la historia de,11562
+historia,la historia de la,3896
+historia,en la historia de la,1222
+historia,en la historia de la música,97
+grupo,grupo de,24050
+grupo,un grupo de,8476
+grupo,de un grupo de,1060
+mayor,la mayor,35683
+mayor,la mayor parte,9014
+mayor,la mayor parte de,6911
+mayor,la mayor parte de los,1581
+vez,una vez,13768
+vez,una vez que,2310
+población,la población,23511
+población,de la población,10542
+población,de la población de,1140
+tras,tras que,22356
+tras,tras que el,12
+tiempo,el tiempo,11452
+tiempo,con el tiempo,2787
+general,general de,16348
+general,general de la,3440
+además,además de,21245
+además,además de la,2266
+bajo,bajo el,16340
+bajo,bajo el nombre,2893
+lugar,lugar de,15736
+lugar,en lugar de,4477
+lugar,en lugar de la,325
+cada,cada en,16377
+cada,fue cada en,43
+sido,ha sido,26689
+sido,que ha sido,2119
+vida,la vida,34624
+vida,de la vida,6716
+nueva,nueva york,14244
+nueva,de nueva york,5087
+nueva,ciudad de nueva york,1310
+nueva,la ciudad de nueva york,1237
+nueva,en la ciudad de nueva york,537
+nueva,en la ciudad de nueva york en,66
+familia,la familia,33122
+familia,de la familia,13435
+familia,de la familia de,3694
+familia,de la familia de los,1775
+familia,peces de la familia de los,817
+familia,de peces de la familia de los,817
+familia,especie de peces de la familia de los,722
+familia,una especie de peces de la familia de los,722
+familia,es una especie de peces de la familia de los,721
+familia,es una especie de peces de la familia de los aplocheílidos,212
+familia,es una especie de peces de la familia de los aplocheílidos en,212
+familia,es una especie de peces de la familia de los aplocheílidos en el,212
+familia,es una especie de peces de la familia de los aplocheílidos en el orden,212
+familia,es una especie de peces de la familia de los aplocheílidos en el orden de,212
+familia,es una especie de peces de la familia de los aplocheílidos en el orden de los,212
+familia,es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes,212
+familia,es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los,210
+familia,es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los machos,210
+familia,es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los machos pueden,210
+familia,es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los machos pueden alcanzar,210
+familia,es una especie de peces de la familia de los aplocheílidos en el orden de los ciprinodontiformes los machos pueden alcanzar los,208
+junto,junto a,25853
+junto,junto a la,3668
+hacia,hacia el,17808
+hacia,hacia el sur,1894
+universidad,la universidad,39039
+universidad,la universidad de,22192
+universidad,de la universidad de,8742
+universidad,de la universidad de chile,666
+mundo,del mundo,21428
+mundo,del mundo de,2188
+sur,sur de,21406
+sur,al sur de,4163
+partido,el partido,13439
+partido,en el partido,3277
+norte,norte de,16069
+norte,al norte de,4296
+norte,al norte de la,1646
+norte,al norte de la ciudad,435
+norte,al norte de la ciudad de,245
+norte,km al norte de la ciudad de,74
+norte,km al norte de la ciudad de san,4
+región,la región,39995
+región,en la región,22392
+región,en la región de,17689
+región,francesa en la región de,6679
+región,comuna francesa en la región de,6674
+región,y comuna francesa en la región de,6669
+región,población y comuna francesa en la región de,6656
+región,una población y comuna francesa en la región de,6655
+región,es una población y comuna francesa en la región de,6648
+región,es una población y comuna francesa en la región de ródanoalpes,868
+provincia,provincia de,39522
+provincia,la provincia de,26017
+provincia,de la provincia de,11293
+provincia,de la provincia de buenos,993
+río,el río,22623
+río,en el río,2264
+nuevo,de nuevo,12651
+nuevo,de nuevo en,1537
+serie,la serie,24519
+serie,de la serie,11002
+serie,de la serie de,2073
+encuentra,se encuentra,64253
+encuentra,se encuentra en,13103
+gobierno,el gobierno,20256
+gobierno,el gobierno de,6601
+gobierno,el gobierno de la,953
+inglés,en inglés,33265
+inglés,en inglés el,1470
+juan,san juan,9194
+juan,de san juan,4609
+juan,de san juan de,1182
+juan,de san juan de la,238
+embargo,sin embargo,46890
+embargo,sin embargo el,4479
+oficial,oficial de,20881
+oficial,oficial de la,6011
+oficial,página oficial de la,1736
+oficial,página oficial de la nasa,338
+sólo,no sólo,5030
+sólo,no sólo en,458
+siendo,siendo el,5225
+siendo,siendo el primer,502
+mientras,mientras que,20839
+mientras,mientras que el,3727
+unidos,estados unidos,42771
+unidos,los estados unidos,17662
+unidos,de los estados unidos,9094
+unidos,de los estados unidos en,758
+luego,luego de,13784
+luego,luego de la,2321
+sistema,sistema de,20851
+sistema,un sistema de,4503
+día,día de,16100
+día,el día de,3105
+centro,centro de,20928
+centro,el centro de,7746
+centro,en el centro de,3825
+centro,en el centro de la,1840
+centro,en el centro de la ciudad,627
+centro,en el centro de la ciudad de,149
+país,del país,16243
+país,del país y,1462
+obra,obra de,18240
+obra,la obra de,4191
+según,según el,9175
+según,según el censo,1672
+segunda,la segunda,27688
+segunda,la segunda guerra,7752
+segunda,la segunda guerra mundial,6990
+segunda,durante la segunda guerra mundial,2407
+segunda,durante la segunda guerra mundial la,172
+josé,san josé,4241
+josé,de san josé,1718
+josé,de san josé de,331
+pueden,se pueden,9376
+pueden,que se pueden,1309
+entonces,desde entonces,5915
+entonces,y desde entonces,839
+equipo,el equipo,13135
+equipo,el equipo de,2703
+rey,el rey,14417
+rey,el rey de,1993
+debido,debido a,34420
+debido,debido a la,9589
+debido,debido a la falta,416
+iglesia,la iglesia,27218
+iglesia,de la iglesia,10350
+iglesia,de la iglesia de,2036
+varios,de varios,5636
+varios,después de varios,371
+español,en español,8771
+español,en español el,406
+zona,la zona,26317
+zona,en la zona,9658
+zona,en la zona de,1983
+número,número de,19395
+número,el número de,6313
+número,en el número de,386
+banda,la banda,27238
+banda,de la banda,12451
+banda,de la banda de,1803
+final,final de,25363
+final,final de la,6697
+final,al final de la,2407
+final,al final de la temporada,294
+santa,de santa,18226
+santa,de santa maría,3647
+casa,la casa,18103
+casa,la casa de,7154
+casa,de la casa de,2098
+casa,de la casa de la,266
+mejor,la mejor,6192
+mejor,a la mejor,2128
+mejor,a la mejor actriz,524
+julio,de julio,24959
+julio,de julio de,16424
+julio,de julio de ese,179
+departamento,departamento de,29618
+departamento,el departamento de,6717
+madrid,de madrid,12085
+madrid,comunidad de madrid,1372
+hace,se hace,7979
+hace,que se hace,883
+cuenta,cuenta con,19151
+cuenta,cuenta con una,3485
+cuatro,de cuatro,5293
+cuatro,de cuatro años,553
+dentro,dentro de,22808
+dentro,dentro de la,9001
+dentro,dentro de la familia,826
+principal,principal de,8542
+principal,principal de la,2047
+grandes,los grandes,4223
+grandes,de los grandes,1942
+grandes,uno de los grandes,685
+grandes,como uno de los grandes,93
+presidente,presidente de,14406
+presidente,presidente de la,7613
+presidente,presidente de la república,2103
+presidente,el presidente de la república,574
+presidente,por el presidente de la república,209
+presidente,designado por el presidente de la república,28
+méxico,de méxico,16154
+méxico,ciudad de méxico,4376
+méxico,la ciudad de méxico,3243
+méxico,de la ciudad de méxico,1396
+méxico,de la ciudad de méxico y,151
+real,se real,13925
+real,,0
+música,la música,13845
+música,de la música,5040
+música,de la música de,501
+bien,si bien,8491
+bien,si bien la,827
+poder,el poder,9530
+poder,el poder de,2068
+tipo,tipo de,28246
+tipo,este tipo de,5139
+obras,obras de,8797
+obras,las obras de,2873
+obras,de las obras de,787
+obras,una de las obras de,63
+película,la película,20117
+película,de la película,6014
+película,de la película de,553
+ii,siglo ii,20996
+ii,del siglo ii,401
+argentina,en argentina,3856
+argentina,en argentina y,398
+muerte,la muerte,18842
+muerte,la muerte de,10360
+muerte,de la muerte de,2734
+muerte,después de la muerte de,1221
+muerte,después de la muerte de su,282
+club,el club,9421
+club,en el club,1655
+mayo,mayo de,49081
+mayo,de mayo de,16357
+mayo,de mayo de ese,156
+álbum,el álbum,8558
+álbum,en el álbum,2205
+álbum,en el álbum de,412
+distrito,distrito de,24424
+distrito,el distrito de,18762
+distrito,en el distrito de,16213
+distrito,loira en el distrito de,736
+época,la época,16139
+época,de la época,7994
+época,de la época de,716
+municipio,municipio de,18238
+municipio,el municipio de,4855
+municipio,en el municipio de,1985
+municipio,situado en el municipio de,125
+medio,medio de,19396
+medio,por medio de,5303
+medio,por medio de la,1161
+pueblo,el pueblo,9696
+pueblo,el pueblo de,2734
+pueblo,en el pueblo de,743
+pueblo,nació en el pueblo de,60
+internacional,internacional de,11109
+internacional,aeropuerto internacional de,1669
+hijo,hijo de,15147
+hijo,el hijo de,1787
+trabajo,de trabajo,8048
+trabajo,de trabajo y,783
+segundo,el segundo,14648
+segundo,en el segundo,2773
+personas,las personas,6685
+personas,de las personas,1983
+personas,de las personas que,382
+conocido,conocido como,18286
+conocido,también conocido como,3249
+habitantes,los habitantes,4879
+habitantes,los habitantes de,2656
+habitantes,los habitantes de la,847
+habitantes,de los habitantes de la,232
+habitantes,de los habitantes de la ciudad,75
+habitantes,de los habitantes de la ciudad de,8
+francia,de francia,13257
+francia,de francia en,2486
+solo,un solo,4037
+solo,de un solo,866
+actualmente,actualmente se,3480
+actualmente,actualmente se encuentra,802
+mundial,guerra mundial,11813
+mundial,segunda guerra mundial,7331
+mundial,la segunda guerra mundial,6990
+mundial,durante la segunda guerra mundial,2407
+mundial,durante la segunda guerra mundial la,172
+maría,santa maría,5877
+maría,de santa maría,3647
+maría,de santa maría de,1267
+maría,de santa maría de la,313
+octubre,de octubre,22946
+octubre,de octubre de,16233
+octubre,de octubre de ese,168
+todas,todas las,20524
+todas,de todas las,3757
+padre,su padre,16300
+padre,de su padre,4842
+padre,muerte de su padre,852
+tierra,la tierra,15681
+tierra,de la tierra,6418
+tierra,de la tierra y,599
+agua,de agua,18996
+agua,de agua dulce,1133
+especies,especies de,8735
+especies,especies de as,3224
+especies,especies de as de,2512
+especies,especies de as de flores,2481
+especies,especies de as de flores perteneciente,2307
+especies,especies de as de flores perteneciente a,2304
+especies,especies de as de flores perteneciente a la,2304
+especies,especies de as de flores perteneciente a la familia,2304
+especies,una especies de as de flores perteneciente a la familia,431
+ejemplo,por ejemplo,20811
+ejemplo,como por ejemplo,3131
+largo,lo largo,16069
+largo,a lo largo,15895
+largo,a lo largo de,11764
+largo,a lo largo de la,3505
+largo,a lo largo de la historia,803
+importante,más importante,16499
+importante,más importante de,2213
+hizo,se hizo,7914
+hizo,que se hizo,848
+septiembre,de septiembre,22680
+septiembre,de septiembre de,15003
+septiembre,de septiembre de ese,178
+enero,enero de,22455
+enero,de enero de,16982
+enero,mes de enero de,84
+canción,la canción,17342
+canción,de la canción,5218
+canción,de la canción de,925
+junio,de junio,22448
+junio,de junio de,15729
+junio,de junio de ese,160
+hecho,hecho de,7284
+hecho,el hecho de,3961
+hecho,el hecho de que,2920
+hecho,por el hecho de que,483
+isla,la isla,23534
+isla,de la isla,7533
+isla,de la isla de,2168
+isla,de la isla de la,123
+carlos,de carlos,4023
+carlos,de carlos iii,533
+menos,al menos,6418
+menos,de al menos,603
+web,web oficial,9017
+web,web oficial de,3535
+web,web oficial de la,1023
+web,sitio web oficial de la,251
+través,a través,29344
+través,a través de,22915
+través,a través de la,5962
+través,a través de la cual,163
+misma,la misma,22242
+misma,de la misma,8144
+misma,de la misma manera,775
+agosto,de agosto,22749
+agosto,de agosto de,14714
+agosto,de agosto de ese,172
+diciembre,de diciembre,21862
+diciembre,de diciembre de,16098
+diciembre,de diciembre de ese,220
+ejército,del ejército,9527
+ejército,del ejército de,1568
+llamado,el llamado,2270
+llamado,en el llamado,376
+temporada,la temporada,13941
+temporada,en la temporada,4952
+temporada,en la temporada de,322
+varias,en varias,5222
+varias,en varias ocasiones,1293
+toda,toda las,20618
+toda,de toda las,10
+capital,la capital,15780
+capital,de la capital,5285
+capital,kilómetros de la capital,856
+momento,el momento,7687
+momento,en el momento,3154
+momento,en el momento de,1404
+momento,en el momento de la,507
+momento,en el momento de la muerte,38
+marzo,de marzo,21328
+marzo,de marzo de,15878
+marzo,de marzo de ese,111
+noviembre,de noviembre,21592
+noviembre,de noviembre de,15593
+noviembre,de noviembre de ese,192
+abril,de abril,21315
+abril,de abril de,15474
+abril,de abril de ese,122
+veces,a veces,9643
+veces,a veces se,1265
+caso,caso de,15325
+caso,el caso de,7079
+caso,en el caso de,4223
+caso,en el caso de la,656
+partir,a partir,27798
+partir,a partir de,21906
+partir,a partir de la,3670
+sitio,sitio web,8151
+sitio,sitio web oficial,2898
+sitio,sitio web oficial de,1009
+sitio,sitio web oficial de la,251
+carrera,su carrera,13204
+carrera,de su carrera,3116
+central,central de,6273
+central,central de la,1461
+tarde,más tarde,22738
+tarde,años más tarde,4013
+desarrollo,el desarrollo,10518
+desarrollo,el desarrollo de,5351
+desarrollo,el desarrollo de la,1768
+desarrollo,en el desarrollo de la,405
+orden,orden de,11644
+orden,la orden de,3749
+orden,de la orden de,1749
+orden,de la orden de santiago,296
+punto,punto de,16478
+punto,el punto de,4566
+punto,el punto de vista,2343
+punto,desde el punto de vista,1996
+punto,desde el punto de vista de,556
+punto,desde el punto de vista de la,232
+punto,desde el punto de vista de la teoría,7
+actual,la actual,18925
+actual,de la actual,1794
+escuela,la escuela,17184
+escuela,la escuela de,5554
+escuela,en la escuela de,1868
+escuela,en la escuela de artes,233
+premio,el premio,9086
+premio,el premio de,1001
+diferentes,en diferentes,3171
+diferentes,en diferentes lugares,135
+república,la república,19276
+república,de la república,12418
+república,de la república de,2201
+línea,la línea,14262
+línea,de la línea,4624
+línea,de la línea de,1373
+línea,debajo de la línea de,494
+línea,debajo de la línea de pobreza,459
+línea,debajo de la línea de pobreza del,313
+línea,debajo de la línea de pobreza del total,313
+línea,debajo de la línea de pobreza del total de,313
+línea,debajo de la línea de pobreza del total de gente,309
+línea,debajo de la línea de pobreza del total de gente en,309
+línea,debajo de la línea de pobreza del total de gente en esta,309
+línea,debajo de la línea de pobreza del total de gente en esta situación,308
+línea,estaban debajo de la línea de pobreza del total de gente en esta situación,245
+línea,población estaban debajo de la línea de pobreza del total de gente en esta situación,245
+línea,la población estaban debajo de la línea de pobreza del total de gente en esta situación,245
+línea,de la población estaban debajo de la línea de pobreza del total de gente en esta situación,245
+línea,,0
+primeros,los primeros,16842
+primeros,de los primeros,4338
+primeros,uno de los primeros,2275
+primeros,fue uno de los primeros,740
+primeros,fue uno de los primeros en,126
+mayoría,la mayoría,20555
+mayoría,la mayoría de,16857
+mayoría,la mayoría de los,7329
+mayoría,en la mayoría de los,1373
+hoy,hoy en,6762
+hoy,hoy en día,5554
+hoy,que hoy en día,529
+francesa,comuna francesa,15946
+francesa,y comuna francesa,14289
+francesa,población y comuna francesa,12391
+francesa,una población y comuna francesa,12381
+francesa,es una población y comuna francesa,12371
+francesa,es una población y comuna francesa en,6648
+francesa,es una población y comuna francesa en la,6648
+francesa,es una población y comuna francesa en la región,6648
+francesa,es una población y comuna francesa en la región de,6648
+francesa,es una población y comuna francesa en la región de ródanoalpes,868
+siempre,que siempre,1818
+siempre,que siempre se,200
+disco,disco de,6503
+disco,disco de oro,678
+hacer,para hacer,6446
+hacer,para hacer frente,393
+política,la política,6377
+política,de la política,1593
+estudios,estudios de,6000
+estudios,los estudios de,1413
+origen,de origen,11050
+origen,denominación de origen,821
+edad,la edad,38877
+edad,la edad de,5064
+programa,programa de,11740
+programa,un programa de,2029
+frente,frente a,11483
+frente,frente a la,2968
+frente,hacer frente a la,202
+febrero,de febrero,19725
+febrero,de febrero de,14500
+febrero,de febrero de ese,97
+nivel,nivel de,8813
+nivel,el nivel de,1654
+versión,la versión,11893
+versión,en la versión,2339
+batalla,la batalla,16254
+batalla,la batalla de,10046
+batalla,en la batalla de,4907
+batalla,participó en la batalla de,224
+último,el último,10164
+último,en el último,1929
+casi,en casi,5350
+casi,en casi todos,353
+siguiente,los siguiente,9024
+siguiente,en los siguiente,17
+juego,los juego,10024
+juego,los juego olímpicos,6
+luis,de luis,3031
+luis,de luis xiv,300
+uso,uso de,13901
+uso,el uso de,6582
+uso,el uso de la,1203
+da,la da,595459
+da,se la da,29
+libro,libro de,9660
+libro,el libro de,2343
+género,un género,9427
+género,es un género,8365
+género,es un género de,3954
+género,es un género de as,1614
+género,es un género de as de,1120
+género,es un género de as de flores,968
+género,es un género de as de flores perteneciente,735
+género,es un género de as de flores perteneciente a,734
+género,es un género de as de flores perteneciente a la,731
+género,es un género de as de flores perteneciente a la familia,729
+género,es un género de as de flores perteneciente a la familia acanthaceae,164
+total,total de,13185
+total,un total de,5222
+total,con un total de,940
+director,director de,9973
+director,director de la,2509
+director,director de la escuela,385
+países,los países,8185
+países,de los países,3068
+países,de los países bajos,1180
+países,de los países bajos en,140
+cerca,cerca de,27026
+cerca,cerca de la,4211
+manera,de manera,11345
+manera,de manera que,1874
+mar,mar de,67388
+mar,el mar de,890
+cuales,los cuales,15627
+cuales,de los cuales,7012
+cuales,habitantes de los cuales,774
+española,española de,4914
+española,española de la,648
+isbn,press isbn,950
+isbn,university press isbn,459
+isbn,columbia university press isbn,142
+isbn,york columbia university press isbn,138
+isbn,new york columbia university press isbn,84
+isbn,isshu new york columbia university press isbn,60
+isbn,hyakunin isshu new york columbia university press isbn,60
+isbn,ogura hyakunin isshu new york columbia university press isbn,60
+isbn,the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,a translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,each a translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,poem each a translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,one hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,mcmillan one hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,peter mcmillan one hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn,60
+isbn,isshu peter mcmillan one hundred poets one poem each a translation of the ogura hyakunin isshu new york columbia university press isbn,22
+página,página oficial,8970
+página,página oficial de,4336
+página,página oficial de la,1736
+página,página oficial de la nasa,338
+francisco,san francisco,5708
+francisco,de san francisco,2601
+francisco,de san francisco de,533
+días,días de,3830
+días,los días de,650
+principales,los principales,6462
+principales,de los principales,2921
+principales,uno de los principales,2126
+principales,es uno de los principales,422
+chile,de chile,12584
+chile,santiago de chile,1917
+europa,de europa,9457
+europa,de europa y,1053
+base,base de,10143
+base,la base de,3788
+base,la base de la,1052
+base,en la base de la,229
+km,km de,9443
+km,km de la,2220
+título,el título,13819
+título,el título de,7299
+título,con el título de,1093
+construcción,la construcción,15245
+construcción,la construcción de,7665
+construcción,la construcción de la,2002
+construcción,de la construcción de la,227
+francés,en francés,8516
+francés,national en francés,590
+debe,se debe,7809
+debe,se debe a,2253
+debe,se debe a que,881
+debe,esto se debe a que,359
+debe,esto se debe a que la,65
+reino,reino unido,9721
+reino,el reino unido,4184
+reino,en el reino unido,2715
+reino,en el reino unido y,422
+división,división de,5860
+división,primera división de,1496
+división,la primera división de,1219
+división,de la primera división de,795
+división,de la primera división de chile,165
+posteriormente,y posteriormente,5049
+posteriormente,y posteriormente en,692
+antonio,san antonio,3512
+antonio,de san antonio,1293
+antonio,de san antonio de,332
+antonio,de san antonio de padua,160
+antonio,iglesia de san antonio de padua,26
+militar,militar de,4618
+militar,militar de la,662
+comuna,comuna francesa,15948
+comuna,y comuna francesa,14289
+comuna,población y comuna francesa,12391
+comuna,una población y comuna francesa,12381
+comuna,es una población y comuna francesa,12371
+comuna,es una población y comuna francesa en,6648
+comuna,es una población y comuna francesa en la,6648
+comuna,es una población y comuna francesa en la región,6648
+comuna,es una población y comuna francesa en la región de,6648
+comuna,es una población y comuna francesa en la región de ródanoalpes,868
+estilo,estilo de,5074
+estilo,el estilo de,1403
+estilo,el estilo de la,183
+buenos,buenos aires,20024
+buenos,de buenos aires,9432
+buenos,provincia de buenos aires,2798
+buenos,la provincia de buenos aires,1551
+buenos,de la provincia de buenos aires,990
+buenos,de la provincia de buenos aires argentina,148
+canciones,de canciones,5655
+canciones,lista de canciones,3723
+canciones,lista de canciones todas,322
+campo,campo de,11613
+campo,el campo de,3623
+campo,en el campo de,2512
+campo,en el campo de la,1022
+campo,en el campo de la música,32
+miembros,miembros de,8639
+miembros,miembros de la,4950
+miembros,los miembros de la,2080
+miembros,de los miembros de la,499
+tener,de tener,7977
+tener,de tener un,420
+fútbol,de fútbol,15121
+fútbol,de fútbol de,4989
+fútbol,selección de fútbol de,1890
+fútbol,la selección de fútbol de,1741
+fútbol,con la selección de fútbol de,1019
+fútbol,internacional con la selección de fútbol de,804
+fútbol,sido internacional con la selección de fútbol de,726
+fútbol,ha sido internacional con la selección de fútbol de,726
+fútbol,nacional ha sido internacional con la selección de fútbol de,694
+fútbol,selección nacional ha sido internacional con la selección de fútbol de,694
+fútbol,francia selección nacional ha sido internacional con la selección de fútbol de,54
+muchas,muchas de,3705
+muchas,muchas de las,1938
+muchas,muchas de las cuales,182
+york,nueva york,14298
+york,de nueva york,5087
+york,ciudad de nueva york,1310
+york,la ciudad de nueva york,1237
+york,en la ciudad de nueva york,537
+york,en la ciudad de nueva york en,66
+información,la información,5241
+información,de la información,1758
+información,de la información y,242
+pedro,san pedro,5508
+pedro,de san pedro,3016
+pedro,de san pedro de,504
+producción,la producción,11213
+producción,la producción de,4602
+producción,en la producción de,729
+barcelona,de barcelona,7162
+barcelona,de barcelona y,767
+lado,lado de,15197
+lado,al lado de,2372
+cuerpo,el cuerpo,6277
+cuerpo,el cuerpo de,1868
+cuerpo,en el cuerpo de,362
+importantes,más importantes,9325
+importantes,más importantes de,2578
+importantes,más importantes de la,1115
+importantes,más importantes de la ciudad,118
+comenzó,comenzó a,10992
+comenzó,y comenzó a,917
+metros,metros de,12985
+metros,metros de altura,2304
+arte,arte de,70133
+arte,el arte de,1104
+tal,tal de,75572
+tal,con tal de,227
+servicio,servicio de,9589
+servicio,el servicio de,1502
+john,de john,2879
+john,de john lennon,122
+hombre,los hombre,6384
+hombre,de los hombre,11
+televisión,de televisión,10739
+televisión,serie de televisión,2518
+alto,de alto,7518
+alto,departamento de alto,1287
+mediante,mediante la,4415
+mediante,mediante la cual,206
+haber,de haber,6626
+haber,después de haber,1983
+haber,después de haber sido,426
+tan,tan de,48549
+tan,tan de moda,16
+incluso,e incluso,6308
+incluso,e incluso en,398
+popular,popular en,4051
+popular,muy popular en,567
+proyecto,el proyecto,7690
+proyecto,el proyecto de,1662
+derecho,derecho de,6804
+derecho,el derecho de,1420
+cinco,de cinco,3878
+cinco,de cinco años,557
+elecciones,las elecciones,10695
+elecciones,en las elecciones,4639
+elecciones,en las elecciones de,1407
+elecciones,en las elecciones de febrero,32
+pesar,a pesar,20905
+pesar,a pesar de,18966
+pesar,a pesar de que,4679
+museo,el museo,8334
+museo,en el museo,3282
+museo,en el museo de,1037
+museo,en el museo de arte,202
+finalmente,y finalmente,3386
+finalmente,y finalmente en,333
+éxito,éxito de,4176
+éxito,el éxito de,1397
+éxito,el éxito de la,421
+éxito,el éxito de la película,36
+movimiento,el movimiento,6367
+movimiento,el movimiento de,1433
+unión,la unión,16059
+unión,de la unión,6539
+unión,de la unión soviética,1410
+hombres,los hombres,6336
+hombres,de los hombres,1511
+situada,situada en,16975
+situada,situada en la,9022
+situada,francesa situada en la,5873
+situada,comuna francesa situada en la,5871
+situada,y comuna francesa situada en la,5858
+situada,y comuna francesa situada en la región,5676
+situada,y comuna francesa situada en la región de,5532
+situada,población y comuna francesa situada en la región de,4993
+situada,una población y comuna francesa situada en la región de,4992
+situada,es una población y comuna francesa situada en la región de,4990
+situada,es una población y comuna francesa situada en la región de baja,807
+social,social y,5783
+social,social y cultural,230
+sino,sino que,7004
+sino,sino que se,847
+puesto,puesto de,7372
+puesto,el puesto de,1366
+especie,especie de,18636
+especie,una especie de,8104
+especie,es una especie de,4738
+especie,es una especie de a,1093
+fin,fin de,48976
+fin,el fin de,7006
+ambos,de ambos,2725
+ambos,de ambos países,167
+localidad,la localidad,10217
+localidad,la localidad de,4282
+localidad,en la localidad de,2010
+localidad,católica en la localidad de,179
+estudio,estudio de,12836
+estudio,el estudio de,2669
+comunidad,la comunidad,14127
+comunidad,de la comunidad,5836
+comunidad,de la comunidad de,1359
+color,de color,11783
+color,de color verde,1332
+edición,la edición,8366
+edición,la edición de,1662
+sociedad,la sociedad,13243
+sociedad,de la sociedad,5977
+sociedad,de la sociedad de,918
+aires,buenos aires,20066
+aires,de buenos aires,9432
+aires,provincia de buenos aires,2798
+aires,la provincia de buenos aires,1551
+aires,de la provincia de buenos aires,990
+aires,de la provincia de buenos aires argentina,148
+finales,a finales,12008
+finales,a finales de,7255
+finales,a finales de los,1785
+puerto,puerto de,9420
+puerto,el puerto de,2777
+puerto,en el puerto de,825
+puerto,en el puerto de la,85
+oeste,al oeste,11958
+oeste,al oeste con,2400
+llamada,la llamada,3748
+llamada,de la llamada,840
+territorio,el territorio,7023
+territorio,el territorio de,2014
+territorio,el territorio de la,595
+territorio,en el territorio de la,231
+territorio,en el territorio de la campiña,46
+costa,la costa,11303
+costa,de la costa,4083
+costa,de la costa de,537
+encuentran,se encuentran,19191
+encuentran,se encuentran en,5472
+encuentran,geográfica se encuentran en,1087
+área,área de,10197
+área,un área de,2764
+área,tiene un área de,1047
+área,condado tiene un área de,243
+aún,que aún,2574
+aún,que aún no,500
+cultura,la cultura,17140
+cultura,de la cultura,4282
+éste,de éste,3701
+éste,de éste en,326
+datos,de datos,6817
+datos,base de datos,1855
+datos,la base de datos,718
+datos,en la base de datos,276
+datos,en la base de datos de,59
+cargo,cargo de,10589
+cargo,a cargo de,3259
+cargo,a cargo de la,876
+cargo,está a cargo de la,108
+grupos,grupos de,5361
+grupos,los grupos de,919
+ello,de ello,19151
+ello,pesar de ello,933
+ley,la ley,15568
+ley,la ley de,3275
+original,original de,4765
+original,original de la,830
+etc,etc en,1648
+etc,etc en el,219
+cualquier,en cualquier,3959
+cualquier,en cualquier caso,888
+radio,de radio,6499
+radio,de radio y,690
+miembro,miembro de,17790
+miembro,miembro de la,6149
+miembro,es miembro de la,732
+millones,millones de,15848
+millones,millones de años,3215
+término,el término,10713
+término,el término municipal,1460
+ver,la ver,67215
+ver,la ver foros,1
+dirección,la dirección,8730
+dirección,la dirección de,3736
+dirección,bajo la dirección de,1517
+dirección,bajo la dirección de su,50
+interior,el interior,6167
+interior,en el interior,3667
+interior,en el interior de,1554
+interior,en el interior de la,748
+interior,en el interior de la iglesia,73
+oro,de oro,23764
+oro,medalla de oro,3013
+nació,la nació,22072
+nació,la nació catalanes,3
+proceso,proceso de,10435
+proceso,el proceso de,4183
+proceso,en el proceso de,909
+grande,más grande,10743
+grande,más grande de,2066
+superior,superior de,5094
+superior,superior de la,916
+lista,lista de,22745
+lista,lista de canciones,3723
+siguientes,los siguientes,8929
+siguientes,en los siguientes,1253
+llegó,llegó a,12705
+llegó,llegó a ser,2430
+antiguo,el antiguo,3623
+antiguo,en el antiguo,972
+antiguo,en el antiguo egipto,204
+allí,allí se,2166
+allí,que allí se,299
+político,político y,3578
+político,un político y,458
+relación,relación con,5395
+relación,en relación con,1359
+relación,en relación con el,356
+relación,en relación con el resto,9
+conocida,conocida como,10886
+conocida,también conocida como,2002
+propio,su propio,5824
+propio,de su propio,773
+alta,de alta,10347
+alta,región de alta,902
+manuel,de manuel,1871
+manuel,de manuel de,130
+pues,pues por,12845
+pues,pues por el,10
+natural,natural de,6460
+natural,natural de la,782
+media,media de,11094
+media,una media de,415
+teatro,el teatro,6379
+teatro,en el teatro,3424
+teatro,en el teatro de,420
+madre,su madre,8408
+madre,de su madre,1879
+voz,la voz,4649
+voz,la voz de,1982
+voz,la voz de la,203
+modo,modo de,5526
+modo,a modo de,1840
+modo,a modo de ejemplo,90
+juegos,los juegos,10004
+juegos,los juegos olímpicos,4830
+juegos,los juegos olímpicos de,3486
+juegos,en los juegos olímpicos de,2395
+juegos,en los juegos olímpicos de pekín,381
+primero,los primero,16896
+primero,de los primero,12
+público,al público,2892
+público,al público en,495
+decir,es decir,11587
+decir,es decir que,1077
+conjunto,conjunto de,9310
+conjunto,un conjunto de,3094
+conjunto,es un conjunto de,518
+puntos,puntos de,3918
+puntos,los puntos de,734
+rock,de rock,5657
+rock,banda de rock,1181
+new,new york,7568
+new,new york times,866
+fuerzas,las fuerzas,12251
+fuerzas,de las fuerzas,3587
+fuerzas,de las fuerzas armadas,940
+fuerzas,de las fuerzas armadas de,171
+papel,el papel,6127
+papel,el papel de,3578
+papel,en el papel de,724
+santiago,de santiago,7630
+santiago,de santiago de,1706
+paso,el paso,5777
+paso,el paso de,2091
+paso,el paso de los,720
+paso,con el paso de los,496
+paso,con el paso de los años,373
+paso,con el paso de los años se,50
+musical,musical de,3854
+musical,musical de la,533
+fuerza,las fuerza,12298
+fuerza,de las fuerza,13
+dice,dice que,11062
+dice,se dice que,3438
+dice,se dice que el,368
+organización,la organización,8764
+organización,de la organización,2763
+organización,de la organización de,534
+alrededor,alrededor de,12643
+alrededor,alrededor de la,1731
+alemania,de alemania,4001
+alemania,de alemania y,403
+acuerdo,de acuerdo,10976
+acuerdo,de acuerdo con,5249
+acuerdo,de acuerdo con la,1185
+aparece,aparece en,10125
+aparece,aparece en el,1624
+edificio,el edificio,6507
+edificio,el edificio de,883
+américa,de américa,10840
+américa,unidos de américa,1145
+igual,igual que,11322
+igual,al igual que,9677
+igual,al igual que el,1363
+cambio,cambio de,8936
+cambio,a cambio de,2242
+cambio,a cambio de la,273
+compañía,la compañía,10971
+compañía,de la compañía,3790
+compañía,de la compañía de,873
+mujer,las mujer,5808
+mujer,las mujer cómo,1
+estación,la estación,11218
+estación,la estación de,2993
+estación,de la estación de,633
+cabo,a cabo,12152
+cabo,llevó a cabo,2586
+cantón,cantón de,15723
+cantón,y cantón de,13616
+cantón,y cantón de la,357
+castillo,castillo de,7060
+castillo,el castillo de,2750
+castillo,en el castillo de,797
+castillo,en el castillo de la,50
+dio,dio de,47917
+dio,se dio de,43
+parque,el parque,6514
+parque,en el parque,1866
+parque,en el parque nacional,337
+liga,la liga,13738
+liga,de la liga,5378
+liga,de la liga de,911
+control,control de,7092
+control,el control de,3213
+control,el control de la,1050
+control,el control de la ciudad,90
+miguel,san miguel,3659
+miguel,de san miguel,1765
+miguel,de san miguel de,408
+referencias,y referencias,1595
+referencias,notas y referencias,1127
+referencias,notas y referencias el,87
+copa,la copa,11964
+copa,de la copa,3669
+copa,de la copa de,928
+copa,de la copa de la,269
+copa,de la copa de la uefa,164
+copa,final de la copa de la uefa,47
+copa,la final de la copa de la uefa,27
+copa,a la final de la copa de la uefa,10
+copa,llega a la final de la copa de la uefa,4
+copa,llega a la final de la copa de la uefa en,2
+copa,llega a la final de la copa de la uefa en el,1
+plaza,la plaza,9838
+plaza,la plaza de,3686
+plaza,en la plaza de,1332
+plaza,en la plaza de la,336
+plaza,en la plaza de la constitución,47
+última,la última,8678
+última,en la última,1497
+personajes,los personajes,4905
+personajes,de los personajes,2123
+personajes,uno de los personajes,716
+personajes,es uno de los personajes,214
+personajes,es uno de los personajes principales,69
+personajes,es uno de los personajes principales de,46
+personajes,es uno de los personajes principales de la,42
+personajes,es uno de los personajes principales de la serie,19
+personajes,es uno de los personajes principales de la serie de,10
+personajes,es uno de los personajes principales de la serie de ciencia,4
+personajes,es uno de los personajes principales de la serie de ciencia ficción,4
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes,3
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes creada,3
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes creada por,3
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim,3
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring,3
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas,3
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas principales,3
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas principales características,3
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas principales características son,3
+personajes,es uno de los personajes principales de la serie de ciencia ficción héroes creada por tim kring cuyas principales características son la,3
+principalmente,principalmente en,4075
+principalmente,principalmente en la,836
+convirtió,se convirtió,15709
+convirtió,se convirtió en,14326
+convirtió,se convirtió en el,3456
+iii,siglo iii,11514
+iii,del siglo iii,434
+instituto,el instituto,6149
+instituto,en el instituto,2376
+instituto,en el instituto de,724
+instituto,en el instituto de estudios,64
+ciudades,las ciudades,6416
+ciudades,las ciudades de,2169
+ciudades,en las ciudades de,404
+unas,unas de,8122
+unas,unas de las,202
+especialmente,especialmente en,4005
+especialmente,especialmente en el,792
+existen,la existen,7056
+existen,la existen otros,1
+revista,la revista,11098
+revista,de la revista,3394
+revista,de la revista de,220
+común,nombre común,2921
+común,el nombre común,1270
+común,el nombre común de,1136
+común,el nombre común de la,1045
+común,el nombre común de la a,1036
+común,a el nombre común de la a,381
+común,referirse a el nombre común de la a,363
+común,puede referirse a el nombre común de la a,354
+común,puede referirse a el nombre común de la a cistus,27
+villa,de villa,12447
+villa,de villa y,289
+mujeres,las mujeres,5803
+mujeres,de las mujeres,1718
+mujeres,de las mujeres el,470
+mujeres,de las mujeres el ingreso,433
+mujeres,de las mujeres el ingreso per,431
+mujeres,de las mujeres el ingreso per cápita,408
+mujeres,de las mujeres el ingreso per cápita del,309
+mujeres,de las mujeres el ingreso per cápita del condado,309
+mujeres,de las mujeres el ingreso per cápita del condado era,240
+mujeres,de las mujeres el ingreso per cápita del condado era de,240
+mujeres,de las mujeres el ingreso per cápita del condado era de us,1
+flores,de flores,7215
+flores,de flores perteneciente,4356
+flores,de flores perteneciente a,4345
+flores,de flores perteneciente a la,4340
+flores,de flores perteneciente a la familia,4225
+flores,as de flores perteneciente a la familia,3325
+flores,de as de flores perteneciente a la familia,3324
+flores,especies de as de flores perteneciente a la familia,2304
+flores,una especies de as de flores perteneciente a la familia,431
+ahora,que ahora,1667
+ahora,que ahora se,290
+personaje,personaje de,6226
+personaje,el personaje de,1379
+resto,resto de,15217
+resto,el resto de,7577
+resto,el resto de la,1944
+resto,con el resto de la,278
+valle,valle de,7136
+valle,el valle de,2425
+valle,en el valle de,1135
+valle,en el valle de los,74
+servicios,los servicios,4475
+servicios,los servicios de,1393
+servicios,de los servicios de,362
+servicios,de los servicios de inteligencia,35
+tema,tema de,26792
+tema,el tema de,1489
+nunca,que nunca,2909
+nunca,que nunca se,422
+cine,de cine,6953
+cine,de cine de,1492
+perteneciente,perteneciente a,16021
+perteneciente,perteneciente a la,12119
+perteneciente,perteneciente a la familia,7167
+perteneciente,flores perteneciente a la familia,4249
+perteneciente,de flores perteneciente a la familia,4225
+perteneciente,as de flores perteneciente a la familia,3325
+perteneciente,de as de flores perteneciente a la familia,3324
+perteneciente,especies de as de flores perteneciente a la familia,2304
+perteneciente,una especies de as de flores perteneciente a la familia,431
+red,red de,27384
+red,la red de,1762
+imperio,del imperio,6679
+imperio,del imperio romano,961
+italia,en italia,5449
+italia,en italia y,376
+civil,guerra civil,7826
+civil,la guerra civil,6364
+civil,la guerra civil española,1755
+civil,durante la guerra civil española,499
+civil,durante la guerra civil española el,47
+estadounidense,estadounidense de,2353
+estadounidense,banda estadounidense de,195
+trata,trata de,29622
+trata,se trata de,9471
+trata,se trata de un,3425
+trata,que se trata de un,312
+especial,especial en,11816
+especial,en especial en,473
+luz,la luz,7551
+luz,de la luz,2101
+luz,velocidad de la luz,321
+dios,los dios,17680
+dios,de los dios,2
+cruz,la cruz,6063
+cruz,de la cruz,2645
+cruz,de la cruz roja,361
+menor,menor de,4261
+menor,hermano menor de,327
+partidos,los partidos,3627
+partidos,de los partidos,1014
+partidos,de los partidos políticos,212
+único,el único,7834
+único,es el único,2252
+único,es el único que,241
+principios,a principios,8014
+principios,a principios de,4760
+principios,a principios de los,1278
+principios,a principios de los años,763
+principios,a principios de los años setenta,30
+anterior,anterior a,2442
+anterior,anterior a la,633
+anterior,anterior a la guerra,52
+empresa,la empresa,10125
+empresa,de la empresa,3338
+empresa,de la empresa de,257
+antigua,la antigua,7486
+antigua,de la antigua,2979
+antigua,de la antigua grecia,194
+perú,del perú,6089
+perú,territorial del perú,1137
+calle,la calle,11025
+calle,en la calle,3304
+calle,en la calle de,365
+espacio,el espacio,5130
+espacio,en el espacio,1678
+espacio,en el espacio de,177
+joven,el joven,2643
+joven,que el joven,170
+gracias,gracias a,12212
+gracias,gracias a la,3505
+gracias,gracias a la ayuda,236
+alemán,en alemán,3489
+alemán,dinosaurierweb en alemán,171
+temas,los temas,8080
+temas,de los temas,991
+parís,de parís,5213
+parís,de parís en,536
+hijos,sus hijos,3415
+hijos,de sus hijos,915
+hijos,uno de sus hijos,162
+posición,la posición,16859
+posición,la posición de,2285
+década,la década,13224
+década,la década de,10977
+década,en la década de,4367
+década,en la década de los,1685
+década,en la década de los años,302
+altura,de altura,6320
+altura,metros de altura,2304
+altura,metros de altura y,422
+león,de león,5939
+león,de león y,615
+jugador,jugador de,5645
+jugador,un jugador de,1248
+canal,canal de,4941
+canal,el canal de,1234
+hermano,su hermano,8522
+hermano,a su hermano,1787
+posible,es posible,6519
+posible,es posible que,1575
+meses,meses de,3320
+meses,los meses de,1287
+meses,en los meses de,460
+meses,en los meses de verano,107
+situación,la situación,6353
+situación,la situación de,1236
+actividad,la actividad,5780
+actividad,de la actividad,1288
+autor,autor de,8444
+autor,autor de la,883
+fernando,san fernando,2246
+fernando,de san fernando,1305
+fernando,artes de san fernando,370
+fernando,bellas artes de san fernando,363
+fernando,de bellas artes de san fernando,363
+fernando,academia de bellas artes de san fernando,293
+fernando,real academia de bellas artes de san fernando,252
+fernando,la real academia de bellas artes de san fernando,231
+fernando,de la real academia de bellas artes de san fernando,128
+fernando,de la real academia de bellas artes de san fernando y,23
+novela,la novela,8075
+novela,de la novela,2186
+novela,de la novela de,317
+amor,amor de,5366
+amor,el amor de,584
+local,local de,11289
+local,local de la,345
+pequeño,un pequeño,6525
+pequeño,es un pequeño,871
+municipal,municipal de,14256
+municipal,término municipal de,1643
+va,va de,107138
+va,que va de,328
+principio,principio de,11728
+principio,el principio de,1614
+nacido,nacido en,8413
+nacido,nacido en la,596
+problemas,los problemas,3816
+problemas,los problemas de,1040
+problemas,los problemas de la,209
+existe,la existe,7058
+existe,la existe un,1
+cación,la cación,31776
+cación,de la cación,1591
+posee,posee una,3897
+posee,que posee una,286
+hija,hija de,6266
+hija,la hija de,1309
+seis,de seis,2691
+seis,de seis años,327
+jefe,jefe de,8195
+jefe,jefe de la,2174
+jefe,el jefe de la,444
+formación,la formación,13866
+formación,la formación de,3371
+superficie,la superficie,6109
+superficie,de la superficie,1601
+superficie,de la superficie de,309
+van,se van,9492
+van,se van a,327
+llegar,llegar a,14504
+llegar,llegar a la,1945
+blanco,blanco y,3132
+blanco,blanco y negro,987
+blanco,en blanco y negro,589
+blanco,en blanco y negro y,77
+consejo,consejo de,6236
+consejo,del consejo de,2158
+consejo,presidente del consejo de,421
+campeonato,el campeonato,7641
+campeonato,en el campeonato,2320
+campeonato,en el campeonato de,825
+campeonato,en el campeonato de europa,191
+sede,la sede,4621
+sede,la sede de,1597
+sede,la sede de la,779
+sede,es la sede de la,160
+zonas,las zonas,4861
+zonas,en las zonas,1675
+zonas,en las zonas de,282
+pasó,pasó a,7799
+pasó,pasó a ser,1955
+pasó,pasó a ser el,217
+libre,libre de,4414
+libre,libre de la,186
+clase,clase de,5372
+clase,la clase de,628
+imagen,la imagen,6648
+imagen,la imagen de,2556
+imagen,la imagen de la,956
+imagen,la imagen de la virgen,460
+imagen,la imagen de la virgen de,179
+imagen,la imagen de la virgen de la,66
+imagen,la imagen de la virgen de la soledad,8
+camino,el camino,5523
+camino,el camino de,1417
+camino,en el camino de,346
+cantidad,cantidad de,12431
+cantidad,gran cantidad de,4002
+cantidad,una gran cantidad de,1824
+cantidad,de una gran cantidad de,127
+noche,la noche,8473
+noche,de la noche,1904
+elementos,los elementos,3721
+elementos,de los elementos,1152
+elementos,uno de los elementos,260
+persona,persona de,12661
+persona,la persona de,315
+características,las características,3527
+características,las características de,1097
+características,de las características de,267
+fuerte,una fuerte,2247
+fuerte,con una fuerte,230
+propia,su propia,6299
+propia,de su propia,945
+victoria,la victoria,5631
+victoria,de la victoria,1356
+ministro,ministro de,9327
+ministro,primer ministro de,977
+acción,la acción,12057
+acción,la acción de,1269
+baja,baja en,11613
+baja,de baja en,194
+incluyendo,incluyendo el,1878
+incluyendo,incluyendo el de,71
+modelo,modelo de,5015
+modelo,el modelo de,1060
+actualidad,la actualidad,13034
+actualidad,en la actualidad,11268
+actualidad,en la actualidad se,1021
+roma,de roma,5503
+roma,de roma y,417
+tropas,las tropas,8688
+tropas,de las tropas,2105
+creación,la creación,9978
+creación,la creación de,6542
+creación,la creación de la,1565
+diversos,de diversos,2147
+diversos,parte de diversos,106
+periodo,periodo de,5373
+periodo,un periodo de,1646
+periodo,por un periodo de,252
+selección,la selección,8670
+selección,la selección de,3489
+selección,la selección de fútbol,1912
+selección,la selección de fútbol de,1741
+selección,con la selección de fútbol de,1019
+selección,internacional con la selección de fútbol de,804
+selección,sido internacional con la selección de fútbol de,726
+selección,ha sido internacional con la selección de fútbol de,726
+selección,nacional ha sido internacional con la selección de fútbol de,694
+selección,selección nacional ha sido internacional con la selección de fútbol de,694
+selección,francia selección nacional ha sido internacional con la selección de fútbol de,54
+interés,de interés,6903
+interés,lugares de interés,1697
+nombrado,fue nombrado,8138
+nombrado,fue nombrado director,436
+paz,paz de,8785
+paz,la paz de,725
+fecha,la fecha,5707
+fecha,hasta la fecha,2052
+fecha,hasta la fecha el,148
+incluye,que incluye,3884
+incluye,que incluye la,256
+cuyo,en cuyo,1624
+cuyo,en cuyo caso,322
+libros,libros de,2998
+libros,los libros de,840
+libros,de los libros de,224
+libros,uno de los libros de,26
+dicho,de dicho,3534
+dicho,de dicho año,254
+lengua,la lengua,6163
+lengua,de la lengua,2644
+lengua,de la lengua española,309
+islas,las islas,8653
+islas,de las islas,3236
+islas,de las islas de,292
+partes,partes de,3341
+partes,partes de la,961
+partes,las partes de la,111
+tercera,la tercera,7783
+tercera,de la tercera,1683
+capacidad,capacidad de,7165
+capacidad,la capacidad de,2947
+capacidad,de la capacidad de,275
+pequeña,una pequeña,6519
+pequeña,es una pequeña,954
+guitarra,la guitarra,2438
+guitarra,de la guitarra,438
+condado,condado de,8187
+condado,el condado de,3174
+condado,en el condado de,1424
+condado,ciudad en el condado de,179
+últimos,los últimos,9102
+últimos,en los últimos,4438
+últimos,en los últimos años,2610
+últimos,en los últimos años se,310
+profesor,profesor de,6388
+profesor,profesor de la,761
+torre,la torre,8425
+torre,de la torre,2740
+torre,de la torre de,366
+profesional,profesional de,2799
+profesional,profesional de la,298
+nuevos,los nuevos,3191
+nuevos,de los nuevos,781
+lugares,lugares de,4013
+lugares,lugares de interés,1697
+lugares,lugares de interés iglesia,287
+equipos,los equipos,3559
+equipos,de los equipos,982
+equipos,uno de los equipos,234
+situado,situado en,9794
+situado,situado en la,3388
+situado,está situado en la,660
+world,the world,5204
+world,of the world,2311
+world,fishes of the world,1319
+world,j fishes of the world,1312
+world,nelson j fishes of the world,1312
+world,,0
+estructura,la estructura,7012
+estructura,la estructura de,1408
+colombia,de colombia,4748
+colombia,de colombia y,424
+aproximadamente,de aproximadamente,2062
+aproximadamente,es de aproximadamente,375
+inglaterra,de inglaterra,4511
+inglaterra,de inglaterra y,604
+honor,en honor,6755
+honor,en honor a,3068
+honor,en honor a la,775
+honor,en honor a la virgen,293
+honor,en honor a la virgen de,156
+honor,en honor a la virgen de la,67
+honor,en honor a la virgen de la asunción,14
+defensa,de defensa,5023
+defensa,de defensa de,779
+mercado,el mercado,4738
+mercado,en el mercado,2677
+mercado,en el mercado de,518
+barrio,barrio de,5816
+barrio,el barrio de,2337
+barrio,en el barrio de,1455
+barrio,en el barrio de la,170
+cabeza,la cabeza,6653
+cabeza,la cabeza de,1564
+período,período de,4829
+período,un período de,1569
+período,en un período de,233
+xix,siglo xix,11345
+xix,del siglo xix,6928
+xix,finales del siglo xix,1565
+recibió,recibió el,3357
+recibió,recibió el premio,907
+recibió,recibió el premio nacional,108
+plata,de plata,6400
+plata,medalla de plata,1529
+tales,tales como,9514
+tales,tales como el,1358
+muestra,se muestra,4092
+muestra,se muestra en,478
+murió,murió en,5230
+murió,y murió en,608
+nuevas,las nuevas,3093
+nuevas,de las nuevas,705
+presenta,presenta de,10443
+presenta,se presenta de,48
+causa,causa de,8023
+causa,a causa de,4357
+causa,a causa de la,1196
+causa,a causa de la guerra,95
+primeras,las primeras,8823
+primeras,de las primeras,2338
+primeras,una de las primeras,1391
+primeras,fue una de las primeras,340
+londres,de londres,3977
+londres,de londres y,415
+única,la única,7067
+única,es la única,1719
+dado,dado de,18674
+dado,fue dado de,336
+fundación,la fundación,7627
+fundación,de la fundación,2684
+fundación,de la fundación de,607
+china,de china,3315
+china,de china y,295
+energía,de energía,4945
+energía,de energía eléctrica,443
+armas,de armas,4592
+armas,escudo de armas,955
+gobernador,gobernador de,4693
+gobernador,gobernador de la,1081
+episodio,el episodio,4205
+episodio,en el episodio,2360
+episodio,en el episodio de,214
+resultado,resultado de,7094
+resultado,el resultado de,2061
+resultado,el resultado de la,654
+resultado,es el resultado de la,207
+resultado,es el resultado de la fusión,49
+ayuda,ayuda a,9058
+ayuda,ayuda a los,367
+actividades,las actividades,3755
+actividades,de las actividades,978
+actividades,de las actividades de,201
+referencia,referencia a,6933
+referencia,hace referencia a,2057
+referencia,hace referencia a la,527
+referencia,que hace referencia a la,82
+cultural,cultural de,2702
+cultural,cultural de la,807
+cultural,centro cultural de la,189
+palacio,el palacio,5350
+palacio,el palacio de,2386
+palacio,en el palacio de,852
+palacio,en el palacio de la,118
+venezuela,de venezuela,4994
+venezuela,de venezuela en,416
+realizó,se realizó,3456
+realizó,se realizó en,946
+realizó,se realizó en el,169
+teoría,la teoría,6571
+teoría,la teoría de,3155
+teoría,la teoría de la,1208
+teoría,de la teoría de la,291
+permite,que permite,5009
+permite,lo que permite,672
+sistemas,sistemas de,4880
+sistemas,los sistemas de,1634
+sistemas,de los sistemas de,495
+sistemas,de los sistemas de información,28
+investigación,de investigación,5578
+investigación,de investigación y,683
+david,de david,1579
+david,de david y,84
+asociación,la asociación,7202
+asociación,de la asociación,3221
+asociación,de la asociación de,938
+asociación,presidente de la asociación de,133
+santo,de santo,3391
+santo,de santo domingo,1384
+santo,de santo domingo de,292
+presencia,la presencia,7356
+presencia,la presencia de,5111
+presencia,por la presencia de,620
+derechos,los derechos,6762
+derechos,los derechos de,2312
+derechos,de los derechos de,598
+derechos,de los derechos de los,186
+derechos,de los derechos de los animales,53
+derechos,de los derechos de los animales y,11
+casos,los casos,3694
+casos,de los casos,1556
+casos,mayoría de los casos,703
+casos,la mayoría de los casos,669
+casos,en la mayoría de los casos,594
+casos,que en la mayoría de los casos,56
+diseño,diseño de,3987
+diseño,el diseño de,1432
+diseño,en el diseño de,338
+japón,en japón,3777
+japón,en japón y,374
+castilla,de castilla,10583
+castilla,de castilla y,4143
+castilla,de castilla y león,3365
+castilla,autónoma de castilla y león,2151
+castilla,comunidad autónoma de castilla y león,2147
+castilla,comunidad autónoma de castilla y león españa,1476
+castilla,burgos comunidad autónoma de castilla y león españa,707
+castilla,de burgos comunidad autónoma de castilla y león españa,707
+castilla,provincia de burgos comunidad autónoma de castilla y león españa,706
+castilla,la provincia de burgos comunidad autónoma de castilla y león españa,695
+castilla,en la provincia de burgos comunidad autónoma de castilla y león españa,675
+castilla,en la provincia de burgos comunidad autónoma de castilla y león españa comarca,656
+castilla,en la provincia de burgos comunidad autónoma de castilla y león españa comarca de,653
+castilla,situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de,455
+castilla,localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de,405
+castilla,una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de,403
+castilla,es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de,395
+castilla,es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de merindades,117
+castilla,es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de merindades partido,116
+castilla,es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de merindades partido judicial,116
+castilla,es una localidad situada en la provincia de burgos comunidad autónoma de castilla y león españa comarca de merindades partido judicial de,116
+xx,siglo xx,12768
+xx,del siglo xx,7903
+xx,principios del siglo xx,1481
+función,la función,4182
+función,la función de,1470
+función,de la función de,144
+ganó,ganó el,3504
+ganó,ganó el premio,828
+festival,festival de,5748
+festival,el festival de,2575
+festival,en el festival de,1751
+festival,en el festival de la,411
+ocasiones,en ocasiones,3650
+ocasiones,y en ocasiones,552
+longitud,de longitud,5253
+longitud,cm de longitud,1940
+longitud,cm de longitud total,1065
+longitud,cm de longitud total distribución,918
+longitud,cm de longitud total distribución geográfica,915
+longitud,cm de longitud total distribución geográfica se,906
+longitud,cm de longitud total distribución geográfica se encuentran,902
+longitud,cm de longitud total distribución geográfica se encuentran en,804
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica,257
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica brasil,80
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa,56
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem,52
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae,44
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south,44
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american,44
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual,44
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual fishes,44
+longitud,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual fishes lám,44
+longitud,,0
+brasil,de brasil,2856
+brasil,de brasil y,310
+niños,los niños,5404
+niños,de los niños,1263
+artículo,el artículo,2700
+artículo,en el artículo,724
+artículo,en el artículo de,48
+valor,valor de,4531
+valor,el valor de,1448
+valor,el valor de la,441
+valor,el valor de la moneda,31
+lleva,lleva a,20152
+lleva,lleva a cabo,1292
+tercer,la tercer,7929
+tercer,de la tercer,30
+lucha,la lucha,5709
+lucha,en la lucha,1257
+apoyo,el apoyo,4379
+apoyo,el apoyo de,2225
+apoyo,con el apoyo de,1144
+apoyo,con el apoyo de la,227
+negro,negro y,2134
+negro,negro y el,145
+importancia,la importancia,2876
+importancia,la importancia de,1561
+importancia,la importancia de la,504
+importancia,de la importancia de la,71
+emperador,el emperador,4157
+emperador,por el emperador,571
+templo,el templo,4185
+templo,el templo de,1385
+templo,en el templo de,330
+garcía,garcía de,967
+garcía,garcía de la,129
+mando,mando de,6098
+mando,al mando de,2726
+mando,al mando de la,343
+gente,la gente,7028
+gente,a la gente,1195
+unido,estados unido,42778
+unido,los estados unido,4
+diversas,en diversas,2127
+diversas,en diversas ocasiones,256
+tamaño,el tamaño,2598
+tamaño,el tamaño de,993
+tamaño,el tamaño de la,310
+tamaño,que el tamaño de la,22
+personal,personal de,3572
+personal,personal de la,364
+comienza,comienza a,6539
+comienza,y comienza a,526
+obtuvo,obtuvo el,3180
+obtuvo,obtuvo el premio,573
+realizar,para realizar,3061
+realizar,para realizar el,294
+fuente,fuente de,6486
+fuente,la fuente de,1158
+usa,usa de,13832
+usa,se usa de,44
+estrella,la estrella,3863
+estrella,de la estrella,1252
+estrella,de la estrella de,191
+relaciones,las relaciones,4453
+relaciones,las relaciones entre,938
+cuya,y cuya,982
+cuya,y cuya función,30
+ésta,de ésta,3452
+ésta,de ésta en,146
+cantante,la cantante,2874
+cantante,de la cantante,1220
+cantante,estudio de la cantante,105
+actor,actor de,5123
+actor,mejor actor de,386
+california,de california,2972
+california,universidad de california,609
+trabajos,los trabajos,3050
+trabajos,los trabajos de,1288
+trabajos,de los trabajos de,226
+palabra,la palabra,8164
+palabra,de la palabra,2305
+palabra,deriva de la palabra,169
+escritor,escritor y,2543
+escritor,un escritor y,358
+artes,artes de,6704
+artes,bellas artes de,1862
+artes,de bellas artes de,1787
+artes,academia de bellas artes de,585
+artes,real academia de bellas artes de,353
+artes,la real academia de bellas artes de,324
+artes,la real academia de bellas artes de san,261
+artes,la real academia de bellas artes de san fernando,231
+artes,de la real academia de bellas artes de san fernando,128
+artes,de la real academia de bellas artes de san fernando y,23
+revolución,la revolución,9315
+revolución,de la revolución,3425
+revolución,de la revolución de,612
+et,et de,124189
+et,et de la,107
+vista,la vista,12738
+vista,a la vista,692
+calidad,la calidad,13821
+calidad,la calidad de,1778
+similar,similar a,6909
+similar,similar a la,2287
+similar,similar a la de,676
+similar,similar a la de los,149
+congreso,el congreso,4382
+congreso,el congreso de,1516
+congreso,en el congreso de,662
+congreso,en el congreso de los,264
+congreso,en el congreso de los diputados,222
+congreso,ficha en el congreso de los diputados,21
+velocidad,velocidad de,3760
+velocidad,la velocidad de,1633
+velocidad,la velocidad de la,476
+velocidad,la velocidad de la luz,300
+velocidad,a la velocidad de la luz,83
+velocidad,a la velocidad de la luz y,9
+independencia,la independencia,6718
+independencia,de la independencia,3251
+independencia,guerra de la independencia,1016
+independencia,la guerra de la independencia,912
+independencia,durante la guerra de la independencia,288
+independencia,durante la guerra de la independencia española,60
+sol,sol de,13113
+sol,el sol de,258
+películas,las películas,2403
+películas,de las películas,838
+películas,de las películas de,256
+películas,de las películas de la,34
+carácter,de carácter,4355
+carácter,es de carácter,154
+siete,los siete,2014
+siete,de los siete,807
+siete,de los siete años,198
+conoce,se conoce,10322
+conoce,se conoce como,2454
+mitad,la mitad,5192
+mitad,la mitad de,2463
+mitad,la mitad de la,804
+mitad,de la mitad de la,166
+aire,buenos aire,20067
+aire,buenos aire coautor,1
+tierras,las tierras,4350
+tierras,de las tierras,1359
+tierras,de las tierras de,247
+iv,iv de,137980
+iv,enrique iv de,252
+material,de material,2965
+material,de material de,154
+generalmente,generalmente se,1030
+generalmente,que generalmente se,116
+dar,de dar,11260
+dar,de dar a,185
+realidad,en realidad,5971
+realidad,que en realidad,945
+economía,la economía,5447
+economía,de la economía,1644
+economía,de la economía de,217
+esposa,su esposa,5674
+esposa,de su esposa,1144
+participó,participó en,8388
+participó,participó en la,3393
+participó,que participó en la,711
+sector,el sector,5001
+sector,en el sector,2315
+sector,en el sector de,479
+torneo,el torneo,4211
+torneo,en el torneo,1566
+torneo,en el torneo de,477
+torneo,en el torneo de la,53
+argentino,argentino de,1077
+argentino,argentino de la,118
+diferencia,diferencia de,7873
+diferencia,a diferencia de,4207
+diferencia,a diferencia de los,824
+contiene,que contiene,4036
+contiene,que contiene el,260
+publicado,publicado en,6008
+publicado,fue publicado en,788
+academia,la academia,7463
+academia,de la academia,3726
+academia,de la academia de,1267
+academia,de la academia de ciencias,263
+medios,medios de,5494
+medios,medios de comunicación,2966
+medios,los medios de comunicación,1620
+medios,de los medios de comunicación,409
+medios,de los medios de comunicación y,52
+corte,la corte,7700
+corte,de la corte,2569
+corte,de la corte suprema,603
+virgen,la virgen,8936
+virgen,de la virgen,4778
+virgen,de la virgen de,1623
+virgen,de la virgen de la,658
+virgen,imagen de la virgen de la,87
+objetivo,el objetivo,5240
+objetivo,el objetivo de,3229
+objetivo,con el objetivo de,2203
+objetivo,con el objetivo de que,80
+seguridad,de seguridad,5903
+seguridad,de seguridad de,651
+influencia,la influencia,4084
+influencia,la influencia de,2059
+influencia,la influencia de la,471
+dicha,de dicha,3667
+dicha,de dicha ciudad,244
+mano,mano de,13674
+mano,la mano de,1796
+ciencias,de ciencias,4960
+ciencias,facultad de ciencias,1284
+ciencias,la facultad de ciencias,799
+ciencias,de la facultad de ciencias,301
+ciencias,de la facultad de ciencias de,56
+campeón,campeón de,4950
+campeón,campeón de la,1831
+campeón,campeón de la copa,518
+campeón,campeón de la copa de,176
+campeón,campeón de la copa de la,31
+sierra,la sierra,7283
+sierra,de la sierra,3818
+sierra,de la sierra de,1317
+sierra,de la sierra de guadarrama,222
+colegio,el colegio,4609
+colegio,en el colegio,2490
+colegio,en el colegio de,689
+colegio,en el colegio de los,113
+administración,la administración,5906
+administración,de la administración,1834
+administración,de la administración de,328
+ataque,el ataque,3091
+ataque,el ataque de,588
+pueblos,los pueblos,5597
+pueblos,de los pueblos,2284
+pueblos,de los pueblos de,348
+cm,cm de,6492
+cm,cm de longitud,1940
+cm,cm de longitud total,1065
+cm,cm de longitud total distribución,918
+cm,cm de longitud total distribución geográfica,915
+cm,cm de longitud total distribución geográfica se,906
+cm,cm de longitud total distribución geográfica se encuentran,902
+cm,cm de longitud total distribución geográfica se encuentran en,804
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica,257
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica brasil,80
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa,56
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem,52
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae,44
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south,44
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american,44
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual,44
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual fishes,44
+cm,cm de longitud total distribución geográfica se encuentran en sudamérica brasil costa wjem rivulidae south american annual fishes lám,44
+cm,,0
+significa,que significa,5017
+significa,lo que significa,636
+manos,los manos,10245
+manos,los manos de,4
+literatura,la literatura,5507
+literatura,de la literatura,2179
+literatura,historia de la literatura,300
+mayores,mayores de,2090
+mayores,mujeres mayores de,493
+sigue,que sigue,2525
+sigue,que sigue al,139
+considerado,considerado como,3570
+considerado,es considerado como,796
+libertad,la libertad,5166
+libertad,de la libertad,1564
+libertad,de la libertad de,291
+mejores,los mejores,4675
+mejores,de los mejores,2753
+mejores,uno de los mejores,2027
+mejores,como uno de los mejores,527
+mejores,considerado como uno de los mejores,157
+mejores,está considerado como uno de los mejores,52
+mejores,y está considerado como uno de los mejores,6
+aguas,las aguas,4092
+aguas,de las aguas,1135
+aguas,de las aguas del,156
+entrada,la entrada,5770
+entrada,la entrada de,1729
+entrada,la entrada de la,446
+entrada,a la entrada de la,134
+entrada,a la entrada de la ciudad,16
+podría,que podría,2903
+podría,que podría ser,401
+unidad,la unidad,21234
+unidad,la unidad de,1200
+ex,ex de,65003
+ex,ex de los,4
+tratado,tratado de,6225
+tratado,el tratado de,2606
+tratado,en el tratado de,334
+ayuntamiento,ayuntamiento de,6252
+ayuntamiento,del ayuntamiento de,1802
+ayuntamiento,web del ayuntamiento de,233
+martín,san martín,4681
+martín,de san martín,1849
+martín,josé de san martín,389
+elegido,fue elegido,5253
+elegido,fue elegido en,762
+respecto,respecto a,5562
+respecto,con respecto a,2367
+respecto,con respecto a la,878
+respecto,con respecto a la eclíptica,15
+tipos,tipos de,8097
+tipos,dos tipos de,1015
+parece,parece en,10384
+parece,se parece en,22
+semana,la semana,3212
+semana,de la semana,1158
+semana,de la semana santa,348
+semana,de la semana santa de,112
+semana,de la semana santa de sevilla,15
+fuentes,las fuentes,2454
+fuentes,de las fuentes,708
+fuentes,de las fuentes de,146
+formas,las formas,4090
+formas,las formas de,741
+idea,idea de,7191
+idea,la idea de,4215
+idea,la idea de que,840
+verano,el verano,3738
+verano,en el verano,1930
+verano,en el verano de,1216
+verano,en el verano de ese,24
+comercial,comercial de,2661
+comercial,comercial de la,385
+etapa,etapa de,3206
+etapa,etapa de la,685
+editorial,la editorial,2242
+editorial,de la editorial,617
+editorial,página de la editorial,28
+enrique,de enrique,1881
+enrique,de enrique iv,222
+horas,horas de,2100
+horas,horas de la,426
+acceso,acceso a,3969
+acceso,acceso a la,1299
+acceso,el acceso a la,393
+acceso,el acceso a la información,28
+buena,una buena,2872
+buena,de una buena,218
+piedra,de piedra,5291
+piedra,de piedra y,416
+categoría,la categoría,4899
+categoría,la categoría de,2484
+categoría,en la categoría de,968
+categoría,en la categoría de mejor,217
+italiano,en italiano,2097
+italiano,en italiano de,131
+video,de video,4321
+video,de video y,80
+ed,ed de,165910
+ed,ed de la,27
+volvió,volvió a,7776
+volvió,se volvió a,665
+campaña,la campaña,4755
+campaña,la campaña de,1340
+campaña,en la campaña de,374
+campaña,participó en la campaña de,56
+jorge,de jorge,1075
+jorge,de jorge luis,91
+occidental,occidental de,2185
+occidental,occidental de la,719
+occidental,parte occidental de la,141
+condiciones,las condiciones,3964
+condiciones,las condiciones de,1196
+condiciones,las condiciones de vida,212
+restos,restos de,4486
+restos,los restos de,2110
+restos,los restos de la,407
+combate,de combate,3367
+combate,de combate de,329
+municipales,elecciones municipales,7911
+municipales,elecciones municipales de,6728
+municipales,demografía elecciones municipales de,1698
+municipales,sainthippolyte demografía elecciones municipales de,16
+señor,señor de,9879
+señor,el señor de,1084
+aeropuerto,el aeropuerto,3776
+aeropuerto,el aeropuerto de,1068
+aeropuerto,en el aeropuerto de,209
+tiempos,los tiempos,3543
+tiempos,todos los tiempos,1306
+tiempos,de todos los tiempos,1259
+tiempos,de todos los tiempos en,143
+productos,de productos,2493
+productos,de productos de,337
+reina,la reina,6853
+reina,de la reina,2542
+reina,de la reina isabel,276
+puente,el puente,3390
+puente,el puente de,1049
+puente,el puente de la,175
+federal,federal de,2595
+federal,república federal de,237
+decidió,se decidió,1645
+decidió,se decidió que,254
+madera,de madera,6241
+madera,de madera y,680
+programas,programas de,3761
+programas,los programas de,843
+matrimonio,matrimonio con,2395
+matrimonio,contrajo matrimonio con,999
+matrimonio,contrajo matrimonio con la,142
+llega,llega a,30466
+llega,llega a la,1115
+ríos,los ríos,5058
+ríos,de los ríos,2286
+ríos,confluencia de los ríos,223
+fuego,de fuego,3347
+fuego,armas de fuego,544
+diario,el diario,3593
+diario,en el diario,1320
+diario,en el diario el,251
+izquierda,la izquierda,4079
+izquierda,a la izquierda,1651
+izquierda,a la izquierda del,225
+utiliza,se utiliza,9390
+utiliza,se utiliza para,1376
+cámara,la cámara,5876
+cámara,la cámara de,2956
+cámara,de la cámara de,1132
+cámara,de la cámara de diputados,408
+cámara,de la cámara de diputados de,98
+nacionales,nacionales de,2505
+nacionales,parques nacionales de,143
+toma,toma de,5164
+toma,la toma de,1812
+toma,en la toma de,367
+premios,los premios,2726
+premios,de los premios,750
+premios,entrega de los premios,116
+jesús,de jesús,4045
+jesús,compañía de jesús,644
+príncipe,el príncipe,3507
+príncipe,el príncipe de,514
+pública,la pública,19308
+pública,en la pública,6
+mas,mas de,39083
+mas,de mas de,80
+vía,vía de,4397
+vía,la vía de,441
+capitán,el capitán,3279
+capitán,el capitán de,483
+aquí,de aquí,1621
+aquí,partir de aquí,304
+animales,los animales,2666
+animales,de los animales,966
+animales,derechos de los animales,117
+españoles,los españoles,3888
+españoles,de los españoles,987
+españoles,llegada de los españoles,345
+españoles,la llegada de los españoles,342
+españoles,de la llegada de los españoles,124
+españoles,antes de la llegada de los españoles,106
+españoles,antes de la llegada de los españoles a,13
+pudo,no pudo,2865
+pudo,que no pudo,360
+medida,medida que,3079
+medida,a medida que,2452
+medida,a medida que se,458
+conde,conde de,9488
+conde,el conde de,919
+pablo,juan pablo,1779
+pablo,juan pablo ii,1015
+pablo,papa juan pablo ii,495
+pablo,el papa juan pablo ii,344
+pablo,por el papa juan pablo ii,132
+pablo,por el papa juan pablo ii el,36
+pablo,beatificados por el papa juan pablo ii el,5
+llevó,llevó a,6835
+llevó,llevó a cabo,2586
+llevó,se llevó a cabo,1509
+llevó,se llevó a cabo en,465
+llevó,se llevó a cabo en el,102
+encontrar,encontrar en,2947
+encontrar,puede encontrar en,453
+numerosos,de numerosos,1232
+numerosos,autor de numerosos,145
+felipe,de felipe,2073
+felipe,de felipe ii,631
+felipe,reinado de felipe ii,93
+artistas,de artistas,1911
+artistas,de artistas de,227
+demás,demás de,21421
+demás,los demás de,79
+humanos,derechos humanos,2731
+humanos,los derechos humanos,1454
+humanos,de los derechos humanos,745
+humanos,defensa de los derechos humanos,125
+alguna,alguna de,7247
+alguna,alguna de las,561
+rojo,rojo y,1718
+rojo,color rojo y,180
+industria,la industria,7359
+industria,de la industria,2084
+industria,de la industria de,294
+pasado,el pasado,2767
+pasado,en el pasado,1698
+pasado,que en el pasado,140
+kilómetros,kilómetros de,3760
+kilómetros,kilómetros de la,1513
+kilómetros,kilómetros de la capital,856
+kilómetros,kilómetros de la capital municipal,476
+kilómetros,kilómetros de la capital municipal la,32
+lópez,lópez de,1203
+lópez,diego lópez de,125
+pocos,los pocos,2122
+pocos,de los pocos,1100
+pocos,uno de los pocos,899
+pocos,es uno de los pocos,326
+pocos,y es uno de los pocos,21
+comunicación,de comunicación,6150
+comunicación,medios de comunicación,2966
+comunicación,los medios de comunicación,1620
+comunicación,de los medios de comunicación,409
+comunicación,de los medios de comunicación y,52
+maestro,maestro de,3043
+maestro,el maestro de,392
+tv,de tv,4855
+tv,serie de tv,942
+hermanos,los hermanos,4073
+hermanos,de los hermanos,1209
+hermanos,de los hermanos de,108
+ningún,en ningún,1156
+ningún,en ningún momento,318
+ningún,en ningún momento se,41
+municipios,los municipios,4031
+municipios,los municipios de,2359
+municipios,con los municipios de,777
+municipios,limita con los municipios de,139
+líder,líder de,4072
+líder,líder de la,1412
+líder,el líder de la,446
+líder,el líder de la banda,88
+texto,el texto,4437
+texto,en el texto,400
+realiza,se realiza,9994
+realiza,se realiza en,831
+imágenes,imágenes de,2550
+imágenes,imágenes de la,580
+james,de james,1300
+james,de james bond,227
+azul,azul y,1704
+azul,azul y blanco,107
+empezó,empezó a,6131
+empezó,se empezó a,750
+metal,de metal,2807
+metal,banda de metal,145
+verde,verde y,1929
+verde,color verde y,420
+histórico,histórico de,2902
+histórico,histórico de la,740
+histórico,histórico de la ciudad,327
+histórico,centro histórico de la ciudad,201
+histórico,el centro histórico de la ciudad,111
+histórico,en el centro histórico de la ciudad,70
+histórico,en el centro histórico de la ciudad de,40
+histórico,en el centro histórico de la ciudad de méxico,15
+histórico,en el centro histórico de la ciudad de méxico y,2
+constitución,la constitución,6622
+constitución,la constitución de,2385
+constitución,de la constitución de,633
+constitución,de la constitución de la,100
+viaje,el viaje,2292
+viaje,el viaje de,505
+logró,que logró,869
+logró,que logró el,78
+escribió,escribió el,901
+escribió,escribió el libro,127
+jóvenes,los jóvenes,2438
+jóvenes,de los jóvenes,590
+nº,el nº,530
+nº,en el nº,111
+dirigida,dirigida por,8761
+dirigida,dirigida por el,850
+técnica,técnica de,4459
+técnica,la técnica de,714
+todavía,que todavía,1125
+todavía,que todavía no,199
+valencia,de valencia,4673
+valencia,de valencia y,476
+existencia,la existencia,6936
+existencia,la existencia de,5118
+existencia,de la existencia de,894
+creado,creado por,3793
+creado,fue creado por,723
+sociales,sociales y,1682
+sociales,ciencias sociales y,219
+alfonso,de alfonso,2083
+alfonso,de alfonso x,339
+pequeños,más pequeños,1123
+pequeños,los más pequeños,220
+ambas,de ambas,1349
+ambas,de ambas partes,61
+censo,el censo,8603
+censo,el censo de,4585
+censo,en el censo de,2580
+censo,población en el censo de,1440
+censo,su población en el censo de,1428
+censo,córcega su población en el censo de,182
+palabras,las palabras,2622
+palabras,de las palabras,762
+palabras,de las palabras en,56
+distancia,distancia de,2738
+distancia,una distancia de,1170
+distancia,a una distancia de,913
+distancia,está a una distancia de,428
+distancia,españa está a una distancia de,311
+distancia,león españa está a una distancia de,307
+distancia,y león españa está a una distancia de,307
+distancia,castilla y león españa está a una distancia de,307
+distancia,de castilla y león españa está a una distancia de,307
+distancia,autónoma de castilla y león españa está a una distancia de,307
+distancia,comunidad autónoma de castilla y león españa está a una distancia de,307
+distancia,la comunidad autónoma de castilla y león españa está a una distancia de,306
+distancia,en la comunidad autónoma de castilla y león españa está a una distancia de,306
+distancia,salamanca en la comunidad autónoma de castilla y león españa está a una distancia de,289
+distancia,de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de,289
+distancia,provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de,289
+distancia,la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de,289
+distancia,en la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de,281
+distancia,municipio en la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de,280
+distancia,un municipio en la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de,280
+distancia,es un municipio en la provincia de salamanca en la comunidad autónoma de castilla y león españa está a una distancia de,279
+efecto,efecto de,4217
+efecto,el efecto de,741
+colección,colección de,5080
+colección,una colección de,1343
+colección,es una colección de,189
+oriental,oriental de,1986
+oriental,oriental de la,604
+oriental,parte oriental de la,108
+paul,de paul,1985
+paul,vicente de paul,62
+algún,en algún,1685
+algún,en algún momento,637
+algún,en algún momento de,121
+ruta,la ruta,6284
+ruta,de la ruta,1322
+arquitectura,la arquitectura,3748
+arquitectura,de la arquitectura,1539
+arquitectura,de la arquitectura de,136
+suele,suele ser,3423
+suele,que suele ser,164
+salud,de salud,4115
+salud,de salud y,457
+bastante,es bastante,1401
+bastante,que es bastante,63
+independiente,independiente de,2897
+independiente,independiente de la,375
+objeto,objeto de,5363
+objeto,el objeto de,1058
+comercio,el comercio,3085
+comercio,el comercio de,521
+resultados,los resultados,3363
+resultados,los resultados de,1142
+resultados,los resultados de la,265
+menudo,a menudo,9351
+menudo,a menudo se,1056
+actriz,la actriz,2313
+actriz,con la actriz,475
+plan,plan de,9687
+plan,el plan de,1177
+produce,se produce,7219
+produce,se produce en,770
+siglos,los siglos,5047
+siglos,de los siglos,1916
+siglos,largo de los siglos,355
+militares,los militares,1278
+militares,de los militares,284
+mes,mes de,14109
+mes,el mes de,2923
+escrito,escrito por,3570
+escrito,fue escrito por,601
+formar,formar parte,4354
+formar,a formar parte,2502
+formar,a formar parte de,1431
+formar,a formar parte de la,847
+formar,pasó a formar parte de la,198
+diez,diez años,2462
+diez,de diez años,396
+xviii,siglo xviii,6890
+xviii,del siglo xviii,3846
+xviii,finales del siglo xviii,561
+jugadores,los jugadores,3223
+jugadores,de los jugadores,801
+figura,la figura,5073
+figura,la figura de,1592
+figura,la figura de la,212
+love,of love,866
+love,tunnel of love,43
+michael,de michael,1114
+michael,de michael jackson,131
+internacionales,internacionales de,1022
+internacionales,internacionales de la,153
+crear,para crear,2637
+crear,para crear un,516
+pasa,pasa a,11900
+pasa,pasa a ser,1041
+futuro,el futuro,3886
+futuro,en el futuro,1432
+futuro,que en el futuro,134
+cuanto,en cuanto,7297
+cuanto,en cuanto a,5138
+cuanto,en cuanto a la,1422
+cuanto,en cuanto a la fauna,42
+biblioteca,la biblioteca,4868
+biblioteca,de la biblioteca,1440
+biblioteca,de la biblioteca nacional,308
+xvi,siglo xvi,18673
+xvi,del siglo xvi,3541
+duque,duque de,8065
+duque,el duque de,1213
+robert,de robert,1837
+robert,de robert a,33
+córdoba,de córdoba,5273
+córdoba,provincia de córdoba,1089
+amigo,amigo de,3958
+amigo,amigo de la,346
+william,de william,1533
+william,de william shakespeare,224
+hacen,se hacen,1685
+hacen,que se hacen,255
+representa,representa de,7671
+representa,se representa de,12
+reyes,los reyes,4875
+reyes,de los reyes,2497
+reyes,de los reyes católicos,425
+acerca,acerca de,6710
+acerca,acerca de la,2185
+acerca,acerca de la vida,87
+domingo,santo domingo,2685
+domingo,de santo domingo,1384
+domingo,de santo domingo de,292
+sonido,el sonido,2332
+sonido,el sonido de,663
+sonido,el sonido de la,204
+sonido,el sonido de la banda,54
+sonido,en el sonido de la banda,11
+tradición,la tradición,5402
+tradición,de la tradición,973
+romano,los romano,3316
+romano,,0
+fondo,el fondo,2838
+fondo,en el fondo,1198
+fondo,en el fondo de,294
+catedral,la catedral,6814
+catedral,la catedral de,3457
+catedral,de la catedral de,1487
+catedral,de la catedral de san,73
+carretera,la carretera,5469
+carretera,de la carretera,1435
+carretera,de la carretera de,181
+transporte,de transporte,4825
+transporte,de transporte de,640
+lago,el lago,4464
+lago,en el lago,725
+numerosas,en numerosas,1310
+numerosas,en numerosas ocasiones,438
+numerosas,en numerosas ocasiones en,43
+ciencia,de ciencia,8602
+ciencia,de ciencia ficción,1384
+mediados,a mediados,6193
+mediados,a mediados de,3649
+mediados,a mediados de los,1055
+mediados,a mediados de los años,601
+mediados,a mediados de los años ochenta,26
+tradicional,tradicional de,2381
+tradicional,tradicional de la,380
+haciendo,haciendo que,1137
+haciendo,haciendo que el,174
+referirse,referirse a,8279
+referirse,puede referirse a,6282
+referirse,puede referirse a el,763
+empresas,las empresas,2646
+empresas,de las empresas,934
+empresas,de las empresas de,122
+monte,de monte,6755
+monte,de monte carlo,104
+económica,económica y,1920
+económica,económica y social,203
+participación,la participación,3480
+participación,la participación de,1924
+participación,con la participación de,838
+participación,contó con la participación de,135
+national,géographique national,2485
+national,institut géographique national,2446
+national,del institut géographique national,633
+national,del institut géographique national en,572
+national,del institut géographique national en francés,572
+national,web del institut géographique national en francés,541
+national,sitio web del institut géographique national en francés,539
+national,el sitio web del institut géographique national en francés,539
+national,en el sitio web del institut géographique national en francés,539
+national,en el sitio web del institut géographique national en francés le,32
+líneas,las líneas,3311
+líneas,las líneas de,996
+líneas,de las líneas de,250
+líneas,una de las líneas de,28
+cosas,las cosas,3585
+cosas,de las cosas,798
+sevilla,de sevilla,4102
+sevilla,de sevilla y,400
+niño,los niño,5415
+niño,los niño de,4
+locales,locales de,1203
+locales,elecciones locales de,222
+nombres,los nombres,3577
+nombres,los nombres de,1907
+nombres,los nombres de los,574
+nombres,de los nombres de los,64
+grado,grado de,6944
+grado,el grado de,2454
+grado,con el grado de,493
+motor,motor de,3745
+motor,un motor de,565
+capilla,la capilla,4910
+capilla,la capilla de,1484
+capilla,la capilla de la,430
+capilla,de la capilla de la,86
+distintos,los distintos,2146
+distintos,de los distintos,576
+distintos,de los distintos tipos,33
+casas,las casas,2986
+casas,de las casas,1069
+casas,de las casas de,176
+george,de george,1619
+george,de george w,78
+diego,san diego,2368
+diego,de san diego,1094
+diego,de san diego california,157
+llama,se llama,7626
+llama,que se llama,594
+naturaleza,la naturaleza,5853
+naturaleza,de la naturaleza,1959
+naturaleza,de la naturaleza y,278
+amigos,sus amigos,2579
+amigos,y sus amigos,565
+recursos,los recursos,2808
+recursos,de los recursos,1168
+recursos,de los recursos naturales,267
+quedó,quedó en,1337
+quedó,se quedó en,296
+blanca,blanca y,1438
+blanca,blanca y la,64
+biografía,biografía de,2505
+biografía,la biografía de,242
+mil,mil de,46543
+mil,mil de ellos,10
+medalla,medalla de,7359
+medalla,medalla de oro,3013
+medalla,la medalla de oro,1364
+medalla,la medalla de oro en,522
+medalla,la medalla de oro en los,224
+medalla,la medalla de oro en los juegos,167
+medalla,la medalla de oro en los juegos olímpicos,122
+medalla,la medalla de oro en los juegos olímpicos de,116
+medalla,de la medalla de oro en los juegos olímpicos de,32
+medalla,ganador de la medalla de oro en los juegos olímpicos de,29
+medalla,argentino ganador de la medalla de oro en los juegos olímpicos de,10
+medalla,argentino ganador de la medalla de oro en los juegos olímpicos de parís,5
+medalla,polo argentino ganador de la medalla de oro en los juegos olímpicos de parís,5
+medalla,de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís,5
+medalla,jugador de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís,5
+medalla,un jugador de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís,5
+medalla,fue un jugador de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís,4
+medalla,unzué fue un jugador de polo argentino ganador de la medalla de oro en los juegos olímpicos de parís,1
+propiedad,propiedad de,3852
+propiedad,propiedad de la,864

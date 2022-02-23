@@ -21,11 +21,19 @@ filename_list = ['spanishText_10000_15000.txt', 'spanishText_15000_20000.txt', '
                  'spanishText_470000_475000.txt', 'spanishText_475000_480000.txt', 'spanishText_480000_485000.txt']
 
 unusual_letters = ['th', 'ae', 'ss']
-wikipedia_stopWords = ['wikisalamanca', 'endofarticle', 'systematics', 'ppp', 'index', 'international', 'plant', 'names', 'catalogue', 'life', 'encyclopedia', 'http', 'www', 'mobot', 'research', 'apweb', 'site', 'biopl', 'edu']
-wikipedia_stopPhrases = ['véase también', 'vease tambíen', 'enlaces externos', 'enlace externo', 'enlace a']
+
+wikipedia_stopWords = ['wikisalamanca', 'endofarticle', 'systematics',
+                       'ppp', 'index', 'international', 'plant', 'names',
+                       'catalogue', 'life', 'encyclopedia', 'http',
+                       'www', 'mobot', 'research', 'apweb', 'site',
+                       'biopl', 'edu']
+
+wikipedia_stopPhrases = ['véase también', 'vease tambíen',
+                         'enlaces externos',
+                         'enlace externo',
+                         'enlace a']
 
 DOC_SIZE = 56
-#DOC_SIZE = 1
 NUMBER_OF_WORDS = 1000
 PHRASE_TOLERANCE = 25
 SHOW_CHARTS = True
@@ -45,9 +53,9 @@ PRE_COUNT = "Pre_count"
 POST_TOKEN = "Post_token"
 POST_COUNT = "Post_count"
 
-CSV_ALPHA_ANALYSIS_FILE = 'corpus-alpha-analysis.csv'
-CSV_WORD_ANALYSIS_FILE = 'corpus-word-analysis.csv'
-CSV_PHRASE_ANALYSIS_FILE = 'corpus-phrase-analysis.csv'
+CSV_ALPHA_ANALYSIS_FILE = 'corpus-csv/corpus-alpha-analysis.csv'
+CSV_WORD_ANALYSIS_FILE = 'corpus-csv/corpus-word-analysis.csv'
+CSV_PHRASE_ANALYSIS_FILE = 'corpus-csv.csv'
 CSV_RANDOM_PHRASES = 'corpus-random-phrases'
 
 LETTERS_FREQUENCY_ORDER = 'Orden de frecuencia relativa de letras'

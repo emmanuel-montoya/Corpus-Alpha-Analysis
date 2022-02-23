@@ -39,6 +39,73 @@ from corpusConstants import LETTERS_FREQUENCY_ORDER
 from corpusConstants import WORDS_FREQUENCY_ORDER
 
 
+def clean_raw_data(raw_data):
+    logging.info('Entering clean_raw_data')
+    logging.debug('raw_data length before cleaning process %d', len(raw_data))
+    logging.debug(raw_data[0:500])
+
+    raw_data = re.sub('<.*>', '', raw_data)
+    logging.debug('raw_data length after removing XML markup: %d', len(raw_data))
+    logging.debug(raw_data[0:500])
+    raw_data = re.sub('^\n', '', raw_data, flags=re.MULTILINE)
+    logging.debug("raw_data length after removing '\\n' characters found at string start: %d", len(raw_data))
+    logging.debug(raw_data[0:500])
+
+    raw_data = re.sub('\n\n+', '\n', raw_data)
+    logging.debug("raw_data length after removing consecutive '\\n' characters: %d", len(raw_data))
+    logging.debug(raw_data[0:500])
+
+    raw_data = re.sub(';+\n', '\n', raw_data)
+    logging.debug("raw_data length after removing semicolons preceding'\\n' characters: %d", len(raw_data))
+    logging.debug(raw_data[0:500])
+
+    raw_data = re.sub('^\s*\w+\s*\n', '', raw_data, flags=re.MULTILINE)
+    logging.debug("raw_data length after removing stand-alone words: %d", len(raw_data))
+    logging.debug(raw_data[0:500])
+
+    raw_data = re.sub('^\s*\w+\s\.*\n', '', raw_data, flags=re.MULTILINE)
+    logging.debug("raw_data length after removing stand-alone 2 words: %d", len(raw_data))
+    logging.debug(raw_data[0:500])
+
+    raw_data = re.sub('\((\s*|\+*|\w\.\s*)\d+(-*|\s*|,\s*)\d*-*\)', '', raw_data)
+    logging.debug("raw_data length after removing numbers and dates in parenthesis: %d", len(raw_data))
+
+    raw_data = re.sub('\(\s*\)', '', raw_data)
+    logging.debug("raw_data length after removing empty parenthesis: %d", len(raw_data))
+
+    raw_data = re.sub('\s*-\s', ' ', raw_data)
+    logging.debug("raw_data length after removing dashes: %d", len(raw_data))
+
+    raw_data = re.sub('\s+\.', ' ', raw_data)
+    logging.debug("raw_data length after removing dots presided by whitespace: %d", len(raw_data))
+    logging.debug(raw_data[0:500])
+
+    for wikipedia_stopPhrase in wikipedia_stopPhrases:
+        raw_data = raw_data.replace(wikipedia_stopPhrase, '')
+        logging.debug('raw_data length after removing %s recurrent phrase: %d', wikipedia_stopPhrase, len(raw_data))
+
+    for wikipedia_stopWord in wikipedia_stopWords:
+        raw_data = raw_data.replace(wikipedia_stopWord, '')
+        logging.debug('raw_data length after removing %s recurrent phrase: %d', wikipedia_stopWord, len(raw_data))
+
+    punctuation_no_period = '[!"#$%&\'()*+,-/:;?@[\]^_`{|}~]'
+    raw_data = re.sub(punctuation_no_period, '', raw_data)
+    logging.debug("raw_data length after removing punctuation but period: %d", len(raw_data))
+
+    logging.info("raw_data length after cleaning process: %d", len(raw_data))
+    logging.debug(raw_data[0:500])
+    return raw_data
+
+
+def normalize_alpha_chars(words):
+    logging.info('Normalizing alpha characters to remove accents using unidecode.')
+    alpha_chars = []
+    for word in words:
+        alpha_chars.extend([unidecode.unidecode(char) for char in word
+                            if (unidecode.unidecode(char) not in unusual_letters and char.isalpha())])
+    return alpha_chars
+
+
 def count_letter_occurrences(chars, size=0):
     logging.debug("Entering count_letter_occurrences method")
     logging.debug("Removing special characters combined as 'th', 'ss', 'ae'")
@@ -57,6 +124,34 @@ def count_word_occurrences(word_tokens, size=0):
     logging.debug(words_counter.most_common(size) if size > 0 else words_counter.most_common())
 
     return words_counter.most_common(size) if size > 0 else words_counter.most_common()
+
+
+def plot_common_info(most_common_tokens, is_letter=False):
+    logging.info("Entering plot_common_info")
+    label_letters = []
+    size_letters = []
+    for a in range(len(most_common_tokens)):
+        label_letters.append(most_common_tokens[a][0])
+        size_letters.append(most_common_tokens[a][1])
+
+    squarify.plot(sizes=size_letters, label=label_letters, alpha=.8)
+    plt.axis('off')
+    plt.title(LETTERS_FREQUENCY_ORDER) if is_letter else plt.title(WORDS_FREQUENCY_ORDER)
+    plt.show()
+
+
+def plot_corpus_words(corpus_words):
+    logging.info("Entering plot_common_info")
+    label_letters = []
+    size_letters = []
+    for corpus_word in corpus_words:
+        label_letters.append(corpus_word.name)
+        size_letters.append(corpus_word.count)
+
+    squarify.plot(sizes=size_letters, label=label_letters, alpha=.8)
+    plt.axis('off')
+    plt.title(WORDS_FREQUENCY_ORDER)
+    plt.show()
 
 
 def build_corpus_letters(common_letter_tokens, text_tokens):
@@ -362,97 +457,3 @@ def create_random_sample_csv(corpus_phrases, random_samples=3):
         for row in csv_rows:
             wr.writerow(row)
 
-
-def plot_common_info(most_common_tokens, is_letter=False):
-    logging.info("Entering plot_common_info")
-    label_letters = []
-    size_letters = []
-    for a in range(len(most_common_tokens)):
-        label_letters.append(most_common_tokens[a][0])
-        size_letters.append(most_common_tokens[a][1])
-
-    squarify.plot(sizes=size_letters, label=label_letters, alpha=.8)
-    plt.axis('off')
-    plt.title(LETTERS_FREQUENCY_ORDER) if is_letter else plt.title(WORDS_FREQUENCY_ORDER)
-    plt.show()
-
-
-def plot_corpus_words(corpus_words):
-    logging.info("Entering plot_common_info")
-    label_letters = []
-    size_letters = []
-    for corpus_word in corpus_words:
-        label_letters.append(corpus_word.name)
-        size_letters.append(corpus_word.count)
-
-    squarify.plot(sizes=size_letters, label=label_letters, alpha=.8)
-    plt.axis('off')
-    plt.title(WORDS_FREQUENCY_ORDER)
-    plt.show()
-
-
-def normalize_alpha_chars(words):
-    logging.info('Normalizing alpha characters to remove accents using unidecode.')
-    alpha_chars = []
-    for word in words:
-        alpha_chars.extend([unidecode.unidecode(char) for char in word
-                            if (unidecode.unidecode(char) not in unusual_letters and char.isalpha())])
-    return alpha_chars
-
-
-def clean_raw_data(raw_data):
-    logging.info('Entering clean_raw_data')
-    logging.debug('raw_data length before cleaning process %d', len(raw_data))
-    logging.debug(raw_data[0:500])
-
-    raw_data = re.sub('<.*>', '', raw_data)
-    logging.debug('raw_data length after removing XML markup: %d', len(raw_data))
-    logging.debug(raw_data[0:500])
-    raw_data = re.sub('^\n', '', raw_data, flags=re.MULTILINE)
-    logging.debug("raw_data length after removing '\\n' characters found at string start: %d", len(raw_data))
-    logging.debug(raw_data[0:500])
-
-    raw_data = re.sub('\n\n+', '\n', raw_data)
-    logging.debug("raw_data length after removing consecutive '\\n' characters: %d", len(raw_data))
-    logging.debug(raw_data[0:500])
-
-    raw_data = re.sub(';+\n', '\n', raw_data)
-    logging.debug("raw_data length after removing semicolons preceding'\\n' characters: %d", len(raw_data))
-    logging.debug(raw_data[0:500])
-
-    raw_data = re.sub('^\s*\w+\s*\n', '', raw_data, flags=re.MULTILINE)
-    logging.debug("raw_data length after removing stand-alone words: %d", len(raw_data))
-    logging.debug(raw_data[0:500])
-
-    raw_data = re.sub('^\s*\w+\s\.*\n', '', raw_data, flags=re.MULTILINE)
-    logging.debug("raw_data length after removing stand-alone 2 words: %d", len(raw_data))
-    logging.debug(raw_data[0:500])
-
-    raw_data = re.sub('\((\s*|\+*|\w\.\s*)\d+(-*|\s*|,\s*)\d*-*\)', '', raw_data)
-    logging.debug("raw_data length after removing numbers and dates in parenthesis: %d", len(raw_data))
-
-    raw_data = re.sub('\(\s*\)', '', raw_data)
-    logging.debug("raw_data length after removing empty parenthesis: %d", len(raw_data))
-
-    raw_data = re.sub('\s*-\s', ' ', raw_data)
-    logging.debug("raw_data length after removing dashes: %d", len(raw_data))
-
-    raw_data = re.sub('\s+\.', ' ', raw_data)
-    logging.debug("raw_data length after removing dots presided by whitespace: %d", len(raw_data))
-    logging.debug(raw_data[0:500])
-
-    for wikipedia_stopPhrase in wikipedia_stopPhrases:
-        raw_data = raw_data.replace(wikipedia_stopPhrase, '')
-        logging.debug('raw_data length after removing %s recurrent phrase: %d', wikipedia_stopPhrase, len(raw_data))
-
-    for wikipedia_stopWord in wikipedia_stopWords:
-        raw_data = raw_data.replace(wikipedia_stopWord, '')
-        logging.debug('raw_data length after removing %s recurrent phrase: %d', wikipedia_stopWord, len(raw_data))
-
-    punctuation_no_period = '[!"#$%&\'()*+,-/:;?@[\]^_`{|}~]'
-    raw_data = re.sub(punctuation_no_period, '', raw_data)
-    logging.debug("raw_data length after removing punctuation but period: %d", len(raw_data))
-
-    logging.info("raw_data length after cleaning process: %d", len(raw_data))
-    logging.debug(raw_data[0:500])
-    return raw_data

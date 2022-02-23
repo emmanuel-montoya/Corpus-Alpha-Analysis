@@ -9,7 +9,7 @@ logging.basicConfig(format='%(levelname)s:%(asctime)s - %(message)s', level=logg
 logging.info('Getting corpus phrases from csv file %s ', CSV_PHRASE_ANALYSIS_FILE)
 
 # project_root = os.path.dirname(os.path.dirname(__file__))
-project_root = "X:/codebase_python/Corpus-Alpha-Analysis/Corpus-Al  pha-Analysis/"
+project_root = "X:/codebase_python/Corpus-Alpha-Analysis/Corpus-Alpha-Analysis/"
 output_path = project_root + CSV_PHRASE_ANALYSIS_FILE
 
 filename = nltk.data.find(output_path)
